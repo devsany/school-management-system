@@ -1,7 +1,7 @@
 import Link from "next/link";
 import React, { useEffect, useState } from "react";
 
-const ClassNUR = () => {
+const Class8A = () => {
   const [apiData, setApiData] = useState([]);
   const [apiDatam, setApiDatam] = useState([]);
   const [number, setNumber] = useState("");
@@ -12,20 +12,17 @@ const ClassNUR = () => {
   const studentdata = async () => {
     const response = await fetch("/api/hello");
     const Data = await response.json();
-    const NUR = Data.filter((stu) => stu.CLASS === "NURSERY");
-    const filteredStudents = NUR.filter((student) =>
+    const KG = Data.filter((stu) => stu.CLASS === 8 && stu.SECTION === "A");
+    const filteredStudents = KG.filter((student) =>
       student.NAME_OF_STUDENT.toLowerCase().includes(name)
     );
-    const admissionNumber = NUR.filter((student) =>
-      student.ADMISSION.toLowerCase().includes(adm)
-    );
+
     const b = Data.filter(
-      (stu) => stu.CLASS === "NURSERY" && stu.GENDER === "MALE"
+      (stu) => stu.CLASS === 8 && stu.SECTION === "A" && stu.GENDER === "MALE"
     );
-    console.log(NUR);
-    setApiDatam(admissionNumber);
+
     setApiData(filteredStudents);
-    setNumber(NUR.length);
+    setNumber(KG.length);
     setBoys(b.length);
   };
 
@@ -43,7 +40,7 @@ const ClassNUR = () => {
         </Link>
       </div>
       <div style={{ margin: "10px" }}>
-        <h3>Class :- NURSERY</h3>
+        <h3>Class :- 8 A</h3>
         <h3>Boys :- {boys}</h3>
         <h3>Girs :- {number - boys}</h3>
         <h3>Total student :- {number}</h3>
@@ -134,4 +131,4 @@ const ClassNUR = () => {
   );
 };
 
-export default ClassNUR;
+export default Class8A;

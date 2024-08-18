@@ -404,6 +404,12 @@ const StudentData = () => {
   }, []);
   return (
     <div>
+      <Link href="/student/all-student-data">
+        <button className="btn_submit">View All Student</button>
+      </Link>
+      <Link href="/student/all-student-data-transport">
+        <button className="btn_submit">Student Transport</button>
+      </Link>
       <table id="customers">
         <thead>
           <tr>
@@ -576,81 +582,180 @@ const StudentData = () => {
             </td>
           </tr>
           <tr>
-            <td>9</td>
+            <td>11</td>
             <td>Class 6 B</td>
             <td>{class6B}</td>
             <td>{class6B_M}</td>
             <td>{class6B_F}</td>
+            <td>
+              {" "}
+              <Link href="/student/addstudent">
+                <button className="btn_submit">Add Student</button>
+              </Link>
+              <Link href="/student/class6B">
+                <button className="btn_submit">View Student</button>
+              </Link>
+            </td>
           </tr>
           <tr>
-            <td>10</td>
+            <td>12</td>
             <td>Class 7 A</td>
             <td>{class7A}</td>
             <td>{class7A_M}</td>
             <td>{class7A_F}</td>
+            <td>
+              {" "}
+              <Link href="/student/addstudent">
+                <button className="btn_submit">Add Student</button>
+              </Link>
+              <Link href="/student/class7A">
+                <button className="btn_submit">View Student</button>
+              </Link>
+            </td>
           </tr>
           <tr>
-            <td>11</td>
+            <td>13</td>
             <td>Class 7 B</td>
             <td>{class7B}</td>
             <td>{class7B_M}</td>
             <td>{class7B_F}</td>
+            <td>
+              {" "}
+              <Link href="/student/addstudent">
+                <button className="btn_submit">Add Student</button>
+              </Link>
+              <Link href="/student/class7B">
+                <button className="btn_submit">View Student</button>
+              </Link>
+            </td>
           </tr>
           <tr>
-            <td>12</td>
+            <td>14</td>
             <td>Class 8 A</td>
             <td>{class8A}</td>
             <td>{class8A_M}</td>
             <td>{class8A_F}</td>
+            <td>
+              {" "}
+              <Link href="/student/addstudent">
+                <button className="btn_submit">Add Student</button>
+              </Link>
+              <Link href="/student/class8A">
+                <button className="btn_submit">View Student</button>
+              </Link>
+            </td>
           </tr>
           <tr>
-            <td>13</td>
+            <td>15</td>
             <td>Class 8 B</td>
             <td>{class8B}</td>
             <td>{class8B_M}</td>
             <td>{class8B_F}</td>
+            <td>
+              {" "}
+              <Link href="/student/addstudent">
+                <button className="btn_submit">Add Student</button>
+              </Link>
+              <Link href="/student/class8B">
+                <button className="btn_submit">View Student</button>
+              </Link>
+            </td>
           </tr>
           <tr>
-            <td>14</td>
+            <td>16</td>
             <td>Class 8 C</td>
             <td>{class8C}</td>
             <td>{class8C_M}</td>
             <td>{class8C_F}</td>
+            <td>
+              {" "}
+              <Link href="/student/addstudent">
+                <button className="btn_submit">Add Student</button>
+              </Link>
+              <Link href="/student/class8C">
+                <button className="btn_submit">View Student</button>
+              </Link>
+            </td>
           </tr>
           <tr>
-            <td>15</td>
+            <td>17</td>
             <td>Class 9 A</td>
             <td>{class9A}</td>
             <td>{class9A_M}</td>
             <td>{class9A_F}</td>
+            <td>
+              {" "}
+              <Link href="/student/addstudent">
+                <button className="btn_submit">Add Student</button>
+              </Link>
+              <Link href="/student/class9A">
+                <button className="btn_submit">View Student</button>
+              </Link>
+            </td>
           </tr>
           <tr>
-            <td>16</td>
+            <td>18</td>
             <td>Class 9 B</td>
             <td>{class9B}</td>
             <td>{class9B_M}</td>
             <td>{class9B_F}</td>
+            <td>
+              {" "}
+              <Link href="/student/addstudent">
+                <button className="btn_submit">Add Student</button>
+              </Link>
+              <Link href="/student/class9B">
+                <button className="btn_submit">View Student</button>
+              </Link>
+            </td>
           </tr>
           <tr>
-            <td>17</td>
+            <td>19</td>
             <td>Class 9 C</td>
             <td>{class9C}</td>
             <td>{class9C_M}</td>
             <td>{class9C_F}</td>
+            <td>
+              {" "}
+              <Link href="/student/addstudent">
+                <button className="btn_submit">Add Student</button>
+              </Link>
+              <Link href="/student/class9C">
+                <button className="btn_submit">View Student</button>
+              </Link>
+            </td>
           </tr>
           <tr>
-            <td>18</td>
+            <td>20</td>
             <td>Class 10 A</td>
             <td>{class10A}</td>
             <td>{class10A_M}</td>
             <td>{class10A_F}</td>
+            <td>
+              {" "}
+              <Link href="/student/addstudent">
+                <button className="btn_submit">Add Student</button>
+              </Link>
+              <Link href="/student/class10A">
+                <button className="btn_submit">View Student</button>
+              </Link>
+            </td>
           </tr>
           <tr>
-            <td>19</td>
+            <td>21</td>
             <td>Class 10 B</td>
             <td>{class10B}</td>
             <td>{class10B_M}</td>
             <td>{class10B_F}</td>
+            <td>
+              {" "}
+              <Link href="/student/addstudent">
+                <button className="btn_submit">Add Student</button>
+              </Link>
+              <Link href="/student/class10B">
+                <button className="btn_submit">View Student</button>
+              </Link>
+            </td>
           </tr>
         </tbody>
       </table>

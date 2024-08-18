@@ -1,7 +1,7 @@
 import Link from "next/link";
 import React, { useEffect, useState } from "react";
 
-const ClassNUR = () => {
+const AllStudentData = () => {
   const [apiData, setApiData] = useState([]);
   const [apiDatam, setApiDatam] = useState([]);
   const [number, setNumber] = useState("");
@@ -12,20 +12,15 @@ const ClassNUR = () => {
   const studentdata = async () => {
     const response = await fetch("/api/hello");
     const Data = await response.json();
-    const NUR = Data.filter((stu) => stu.CLASS === "NURSERY");
-    const filteredStudents = NUR.filter((student) =>
+
+    const filteredStudents = Data.filter((student) =>
       student.NAME_OF_STUDENT.toLowerCase().includes(name)
     );
-    const admissionNumber = NUR.filter((student) =>
-      student.ADMISSION.toLowerCase().includes(adm)
-    );
-    const b = Data.filter(
-      (stu) => stu.CLASS === "NURSERY" && stu.GENDER === "MALE"
-    );
-    console.log(NUR);
-    setApiDatam(admissionNumber);
+
+    const b = Data.filter((stu) => stu.GENDER === "MALE");
+
     setApiData(filteredStudents);
-    setNumber(NUR.length);
+    setNumber(Data.length);
     setBoys(b.length);
   };
 
@@ -43,7 +38,7 @@ const ClassNUR = () => {
         </Link>
       </div>
       <div style={{ margin: "10px" }}>
-        <h3>Class :- NURSERY</h3>
+        <h3>Class All Student</h3>
         <h3>Boys :- {boys}</h3>
         <h3>Girs :- {number - boys}</h3>
         <h3>Total student :- {number}</h3>
@@ -134,4 +129,4 @@ const ClassNUR = () => {
   );
 };
 
-export default ClassNUR;
+export default AllStudentData;

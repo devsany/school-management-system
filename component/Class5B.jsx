@@ -17,7 +17,9 @@ const Class5B = () => {
       student.NAME_OF_STUDENT.toLowerCase().includes(name)
     );
 
-    const b = Data.filter((stu) => stu.CLASS === 5 && stu.GENDER === "MALE");
+    const b = Data.filter(
+      (stu) => stu.CLASS === 5 && stu.SECTION === "B" && stu.GENDER === "MALE"
+    );
 
     setApiData(filteredStudents);
     setNumber(KG.length);
@@ -96,7 +98,18 @@ const Class5B = () => {
                       {student.GENDER}
                       <br />
                       <strong>Catogery: </strong>
-                      {student.CATOGERY}
+                      {student.CATOGERY} <br />
+                      <strong>Blood Group: </strong>
+                      {student.BLOOD_GROUP}
+                      <br />
+                      <strong>CWCN: </strong>
+                      {student.CWCN}
+                      <br />
+                      <strong>TRANS: </strong>
+                      {student.TRANS}
+                      <br />
+                      <strong>School House: </strong>
+                      {student.SCHOOL_HOUSE}
                     </td>
                     <td>{student.FATHER_NAME}</td>
                     <td>{student.MOTHER_NAME}</td>

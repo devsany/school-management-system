@@ -1,7 +1,7 @@
 import Link from "next/link";
 import React, { useEffect, useState } from "react";
 
-const ClassPREP  = () => {
+const ClassPREP = () => {
   const [apiData, setApiData] = useState([]);
   const [apiDatam, setApiDatam] = useState([]);
   const [number, setNumber] = useState("");
@@ -98,7 +98,18 @@ const ClassPREP  = () => {
                       {student.GENDER}
                       <br />
                       <strong>Catogery: </strong>
-                      {student.CATOGERY}
+                      {student.CATOGERY} <br />
+                      <strong>Blood Group: </strong>
+                      {student.BLOOD_GROUP}
+                      <br />
+                      <strong>CWCN: </strong>
+                      {student.CWCN}
+                      <br />
+                      <strong>TRANS: </strong>
+                      {student.TRANS}
+                      <br />
+                      <strong>School House: </strong>
+                      {student.SCHOOL_HOUSE}
                     </td>
                     <td>{student.FATHER_NAME}</td>
                     <td>{student.MOTHER_NAME}</td>
@@ -120,4 +131,4 @@ const ClassPREP  = () => {
   );
 };
 
-export default ClassPREP    ;
+export default ClassPREP;
