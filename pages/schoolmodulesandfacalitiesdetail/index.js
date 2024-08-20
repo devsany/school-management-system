@@ -40,6 +40,14 @@ const index = () => {
             Daseboard
           </div>
         </Link>
+        <Link href="/schoolmodulesandfacalitiesdetail/StudentDemographics">
+          <div
+            className="bg-yellow-300 text-gray-700 cursor-pointer"
+            style={{ padding: "60px", margin: "10px" }}
+          >
+            Student Demographics
+          </div>
+        </Link>
         <Link href="/schoolmodulesandfacalitiesdetail/help">
           <div
             className="bg-green-200 cursor-pointer"
