@@ -1,7 +1,7 @@
 import Link from "next/link";
 import React, { useEffect, useState } from "react";
 
-const AllStudentData = () => {
+const Bus3_detail = () => {
   const [apiData, setApiData] = useState([]);
   const [apiDatam, setApiDatam] = useState([]);
   const [number, setNumber] = useState("");
@@ -12,15 +12,17 @@ const AllStudentData = () => {
   const studentdata = async () => {
     const response = await fetch("/api/hello");
     const Data = await response.json();
-
-    const filteredStudents = Data.filter((student) =>
+    const BUS3 = Data.filter((stu) => stu.BUS_NUMBER === 3);
+    const filteredStudents = BUS3.filter((student) =>
       student.NAME_OF_STUDENT.toLowerCase().includes(name)
     );
 
-    const b = Data.filter((stu) => stu.GENDER === "MALE");
+    const b = Data.filter(
+      (stu) => stu.BUS_NUMBER === 3 && stu.GENDER === "MALE"
+    );
 
     setApiData(filteredStudents);
-    setNumber(Data.length);
+    setNumber(BUS3.length);
     setBoys(b.length);
   };
 
@@ -30,15 +32,15 @@ const AllStudentData = () => {
   return (
     <div>
       <div>
-        <Link href="/student">
-          <button className="btn_submit ">Back to Home</button>
+        <Link href="/student/all-student-data-transport">
+          <button className="btn_submit">Transport details</button>
         </Link>
         <Link href="addstudent">
           <button className="btn_submit">Take Admission</button>
         </Link>
       </div>
       <div style={{ margin: "10px" }}>
-        <h3>Class All Student</h3>
+        <h3>Bus No. :- 3</h3>
         <h3>Boys :- {boys}</h3>
         <h3>Girs :- {number - boys}</h3>
         <h3>Total student :- {number}</h3>
@@ -64,7 +66,6 @@ const AllStudentData = () => {
       <table id="customers">
         <thead>
           <tr>
-            <th>Id</th>
             <th>Roll No.</th>
             <th>Admission No.</th>
             <th>Student detail</th>
@@ -81,11 +82,10 @@ const AllStudentData = () => {
               return (
                 <>
                   <tr>
-                    <td>{student.id}</td>
                     <td>{student.ROLL}</td>
                     <td>{student.ADMISSION}</td>
                     <td style={{ textAlign: "left" }}>
-                      <strong>Name: </strong>
+                      <strong>Student Name: </strong>
                       {student.NAME_OF_STUDENT} <br />
                       <strong> Class: </strong>
                       {student.CLASS} <br />
@@ -131,4 +131,4 @@ const AllStudentData = () => {
   );
 };
 
-export default AllStudentData;
+export default Bus3_detail;

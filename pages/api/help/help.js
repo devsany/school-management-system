@@ -1,8 +1,8 @@
 // Next.js API route support: https://nextjs.org/docs/api-routes/introduction
 
-import { student_main_data_json } from "../../API_DATA_MAIN/STUDENT_API";
+import { help_api } from "../../../HELP_API/HELP_API_DATA";
 export default function handler(req, res) {
-  res.status(200).json(student_main_data_json);
+  res.status(200).json(help_api);
 }
 // export default function handler(req, res) {
 //   const { id } = req.query;

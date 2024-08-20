@@ -404,11 +404,37 @@ const StudentData = () => {
   }, []);
   return (
     <div>
+      <Link href="/">
+        <button
+          style={{ marginBottom: "10px", border: "none" }}
+          className="btn_submit"
+        >
+          Back To Module
+        </button>
+      </Link>
       <Link href="/student/all-student-data">
-        <button className="btn_submit">View All Student</button>
+        <button
+          style={{
+            marginBottom: "10px",
+            backgroundColor: "green",
+            border: "none",
+          }}
+          className="btn_submit "
+        >
+          View All Student
+        </button>
       </Link>
       <Link href="/student/all-student-data-transport">
-        <button className="btn_submit">Student Transport</button>
+        <button
+          style={{
+            marginBottom: "10px",
+            backgroundColor: "orange",
+            border: "none",
+          }}
+          className="btn_submit"
+        >
+          Student Transport
+        </button>
       </Link>
       <table id="customers">
         <thead>

@@ -1,5 +1,6 @@
 export const student_main_data_json = [
   {
+    id: 1,
     ADMISSION: "CPS-NUR- 3272-2024",
     ROLL: 1,
     NAME_OF_STUDENT: "AARAV SINGH",
@@ -21,6 +22,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 2,
     ADMISSION: "CPS-NUR- 3091-2024",
     ROLL: 2,
     NAME_OF_STUDENT: "AAROHI SINGH",
@@ -42,6 +44,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 3,
     ADMISSION: "CPS-NUR- 3194-2024",
     ROLL: 3,
     NAME_OF_STUDENT: "ABHIMAAN KUMAR",
@@ -63,6 +66,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 4,
     ADMISSION: "CPS-NUR- 3196-2024",
     ROLL: 4,
     NAME_OF_STUDENT: "ARNAV KUMAR",
@@ -84,6 +88,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 5,
     ADMISSION: "CPS-NUR- 3139-2024",
     ROLL: 5,
     NAME_OF_STUDENT: "ARYAN KUMAR",
@@ -105,6 +110,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 6,
     ADMISSION: "CPS-NUR- 3117-2024",
     ROLL: 6,
     NAME_OF_STUDENT: "AYUSH RAJ",
@@ -126,6 +132,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 6,
   },
   {
+    id: 7,
     ADMISSION: "CPS-NUR- 3173-2024",
     ROLL: 7,
     NAME_OF_STUDENT: "DIKSHA RANI",
@@ -146,6 +153,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 8,
     ADMISSION: "CPS-NUR- 3148-2024",
     ROLL: 8,
     NAME_OF_STUDENT: "GAURAV KUMAR",
@@ -167,6 +175,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 9,
     ADMISSION: "CPS-NUR- 3281-2024",
     ROLL: 9,
     NAME_OF_STUDENT: "HARSHIT KUMAR",
@@ -188,6 +197,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 10,
     ADMISSION: "CPS-NUR- 3175-2024",
     ROLL: 10,
     NAME_OF_STUDENT: "NINCY KUMARI",
@@ -209,6 +219,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 11,
     ADMISSION: "CPS-NUR- 3141-2024",
     ROLL: 11,
     NAME_OF_STUDENT: "NISHANT KUMAR",
@@ -230,6 +241,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 12,
     ADMISSION: "CPS-NUR- 3228-2024",
     ROLL: 12,
     NAME_OF_STUDENT: "PRINCE KUMAR",
@@ -251,6 +263,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 13,
     ADMISSION: "CPS-NUR- 3132-2024",
     ROLL: 13,
     NAME_OF_STUDENT: "RAJIV RAJ ANAND",
@@ -272,6 +285,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 14,
     ADMISSION: "CPS-NUR- 3275-2024",
     ROLL: 14,
     NAME_OF_STUDENT: "SAKSHAM MISHRA",
@@ -293,6 +307,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 15,
     ADMISSION: "CPS-NUR- 3166-2024",
     ROLL: 15,
     NAME_OF_STUDENT: "SHIVANYA KUMARI",
@@ -314,6 +329,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 16,
     ADMISSION: "CPS-NUR- 3174-2024",
     ROLL: 16,
     NAME_OF_STUDENT: "SUNNY KUMAR",
@@ -335,6 +351,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 6,
   },
   {
+    id: 17,
     ADMISSION: "CPS-NUR- 3121-2024",
     ROLL: 7,
     NAME_OF_STUDENT: "DAKSH PRATAP",
@@ -356,6 +373,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 18,
     ADMISSION: "CPS-NUR- 3124-2024",
     ROLL: 10,
     NAME_OF_STUDENT: "HARSH KUMAR",
@@ -377,6 +395,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 8,
   },
   {
+    id: 19,
     ADMISSION: "CPS-NUR- 3162-2024",
     ROLL: 17,
     NAME_OF_STUDENT: "YOUG RAJ",
@@ -398,6 +417,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 9,
   },
   {
+    id: 20,
     ADMISSION: "CPS-NUR- 2916-2023",
     ROLL: 1,
     NAME_OF_STUDENT: "ABHINAV SINGH",
@@ -419,6 +439,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 21,
     ADMISSION: "CPS-NUR- 2958-2023",
     ROLL: 2,
     NAME_OF_STUDENT: "ADITYA KUMAR",
@@ -440,6 +461,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 22,
     ADMISSION: "CPS-KG- 3273-2024",
     ROLL: 3,
     NAME_OF_STUDENT: "ALIA KUMARI",
@@ -461,6 +483,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 23,
     ADMISSION: "CPS-NUR- 2873-2023",
     ROLL: 4,
     NAME_OF_STUDENT: "ANKUSH KUMAR",
@@ -482,6 +505,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 24,
     ADMISSION: "CPS-NUR- 2945-2023",
     ROLL: 5,
     NAME_OF_STUDENT: "ANKUSH RANJAN PANDEY",
@@ -503,6 +527,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 25,
     ADMISSION: "CPS-NUR- 2932-2023",
     ROLL: 6,
     NAME_OF_STUDENT: "ANMYA NIRU",
@@ -524,6 +549,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 6,
   },
   {
+    id: 26,
     ADMISSION: "CPS-NUR- 2888-2023",
     ROLL: 7,
     NAME_OF_STUDENT: "ARCHANA KUMARI",
@@ -545,6 +571,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 27,
     ADMISSION: "CPS-KG- 3209-2024",
     ROLL: 8,
     NAME_OF_STUDENT: "ARYAN RAJ",
@@ -566,6 +593,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 8,
   },
   {
+    id: 28,
     ADMISSION: "CPS-NUR- 2953-2023",
     ROLL: 9,
     NAME_OF_STUDENT: "AYUSHMAN SHARMA",
@@ -587,6 +615,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 9,
   },
   {
+    id: 29,
     ADMISSION: "CPS-NUR- 3121-2024",
     ROLL: 10,
     NAME_OF_STUDENT: "DAKSH PRATAP",
@@ -608,6 +637,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 30,
     ADMISSION: "CPS-NUR- 3050-2023",
     ROLL: 11,
     NAME_OF_STUDENT: "DAKSH SINGH",
@@ -629,6 +659,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 31,
     ADMISSION: "CPS-KG- 3125-2024",
     ROLL: 12,
     NAME_OF_STUDENT: "KARAN SHARMA",
@@ -649,6 +680,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 32,
     ADMISSION: "CPS- NUR- 2941-2023",
     ROLL: 13,
     NAME_OF_STUDENT: "LUCKY TIGER",
@@ -670,6 +702,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 33,
     ADMISSION: "CPS- NUR- 2975-2023",
     ROLL: 14,
     NAME_OF_STUDENT: "PARTH RAJ",
@@ -691,6 +724,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 34,
     ADMISSION: "CPS-KG- 3277-2024",
     ROLL: 15,
     NAME_OF_STUDENT: "PRABHAT KUMAR",
@@ -712,6 +746,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 35,
     ADMISSION: "CPS-KG- 2955-2023",
     ROLL: 16,
     NAME_OF_STUDENT: "PRASHANT KUMAR",
@@ -733,6 +768,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 36,
     ADMISSION: "CPS-KG- 3303-2024",
     ROLL: 17,
     NAME_OF_STUDENT: "PRITAM KUMAR",
@@ -754,6 +790,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 37,
     ADMISSION: "CPS-KG- 3200-2024",
     ROLL: 18,
     NAME_OF_STUDENT: "PRIYANSH KUMAR",
@@ -775,6 +812,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 38,
     ADMISSION: "CPS- NUR- 2963-2023",
     ROLL: 19,
     NAME_OF_STUDENT: "PRIYANSHU KUMAR",
@@ -796,6 +834,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 9,
   },
   {
+    id: 39,
     ADMISSION: "CPS-NUR- 2883-2023",
     ROLL: 20,
     NAME_OF_STUDENT: "RITIK RAJ",
@@ -817,6 +856,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 40,
     ADMISSION: "CPS- NUR- 2988-2023",
     ROLL: 21,
     NAME_OF_STUDENT: "RUHI GUPTA",
@@ -838,6 +878,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 41,
     ADMISSION: "CPS-KG- 3168-2024",
     ROLL: 22,
     NAME_OF_STUDENT: "SANYA KUMARI",
@@ -859,6 +900,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 42,
     ADMISSION: "CPS- NUR- 2586-2022",
     ROLL: 23,
     NAME_OF_STUDENT: "SATYAM RAJ",
@@ -880,6 +922,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 43,
     ADMISSION: "CPS-NUR- 2943 -2023",
     ROLL: 24,
     NAME_OF_STUDENT: "SHIVANSH CHAURASIA",
@@ -901,6 +944,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 44,
     ADMISSION: "CPS- NUR- 2893-2023",
     ROLL: 25,
     NAME_OF_STUDENT: "SUMMER SINGH",
@@ -921,6 +965,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 45,
     ADMISSION: "CPS-NUR- 3052-2023",
     ROLL: 26,
     NAME_OF_STUDENT: "TANISHKA SHARMA",
@@ -942,6 +987,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 46,
     ADMISSION: "CPS-NUR- 2989-2023",
     ROLL: 27,
     NAME_OF_STUDENT: "VAISHNAVI KUMARI ",
@@ -963,6 +1009,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 47,
     ADMISSION: "CPS-KG- 3301-2024",
     ROLL: 28,
     NAME_OF_STUDENT: "VAISHNAVI KUMARI ",
@@ -984,6 +1031,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 48,
     ADMISSION: "CPS-NUR- 2970-2023",
     ROLL: 29,
     NAME_OF_STUDENT: "VED SINHA",
@@ -1005,6 +1053,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 49,
     ADMISSION: "CPS- NUR- 2749-2022",
     ROLL: "LEFT",
     NAME_OF_STUDENT: "PARINIDHI KUMARI",
@@ -1025,6 +1074,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 8,
   },
   {
+    id: 50,
     ADMISSION: "CPS-NUR- 3049-2023",
     ROLL: "LEFT",
     NAME_OF_STUDENT: "RIYANSHU ",
@@ -1046,6 +1096,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 9,
   },
   {
+    id: 51,
     ADMISSION: "CPS-NUR- 2748-2022",
     ROLL: "LEFT",
     NAME_OF_STUDENT: "UDHAM SINGH",
@@ -1067,6 +1118,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 52,
     ROLL: "LEFT",
     NAME_OF_STUDENT: "RITIKA KUMARI",
     FATHER_NAME: "SHASHI RANJAN SINGH",
@@ -1084,6 +1136,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 53,
     ADMISSION: "CPS-NUR- 2954-2023",
     ROLL: "PREP",
     NAME_OF_STUDENT: "SHOURYA SINGH",
@@ -1105,6 +1158,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 54,
     ADMISSION: "CPS-KG- 3151-2024",
     ROLL: 1,
     NAME_OF_STUDENT: "ABHINANDAN KUMAR JHA",
@@ -1126,6 +1180,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 55,
     ADMISSION: "CPS-NUR- 2736-2022",
     ROLL: 2,
     NAME_OF_STUDENT: "ADARSH SINGH",
@@ -1147,6 +1202,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 56,
     ADMISSION: "CPS-NUR- 2493-2022",
     ROLL: 3,
     NAME_OF_STUDENT: "ADITI SINGH",
@@ -1168,6 +1224,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 57,
     ADMISSION: "CPS-KG- 2871-2023",
     ROLL: 4,
     NAME_OF_STUDENT: "ANKITA KUMARI",
@@ -1189,6 +1246,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 58,
     ADMISSION: "CPS-KG- 2936-2023",
     ROLL: 5,
     NAME_OF_STUDENT: "ANKUSH KUMAR",
@@ -1210,6 +1268,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 59,
     ADMISSION: "CPS-NUR- 2623-2022",
     ROLL: 6,
     NAME_OF_STUDENT: "ANKUSH RAJ",
@@ -1231,6 +1290,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 60,
     ADMISSION: "CPS-PREP- 3199-2024",
     ROLL: 7,
     NAME_OF_STUDENT: "ANSHIKA RAJ",
@@ -1252,6 +1312,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 61,
     ADMISSION: "CPS-KG- 2876-2023",
     ROLL: 8,
     NAME_OF_STUDENT: "ANU KUMARI",
@@ -1273,6 +1334,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 8,
   },
   {
+    id: 62,
     ADMISSION: "CPS-NUR- 2527-2022",
     ROLL: 9,
     NAME_OF_STUDENT: "ARYAN KUMAR",
@@ -1294,6 +1356,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 9,
   },
   {
+    id: 63,
     ADMISSION: "CPS-PREP- 3190-2024",
     ROLL: 10,
     NAME_OF_STUDENT: "HARSHIKA SINGH",
@@ -1315,6 +1378,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 64,
     ADMISSION: "CPS-KG- 2889-2023",
     ROLL: 11,
     NAME_OF_STUDENT: "HIMANSHU KUMAR",
@@ -1336,6 +1400,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 65,
     ADMISSION: "CPS-NUR- 2696-2022",
     ROLL: 12,
     NAME_OF_STUDENT: "KARTIKYA SINGH",
@@ -1357,6 +1422,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 66,
     ADMISSION: "CPS-NUR- 2852-2022",
     ROLL: 13,
     NAME_OF_STUDENT: "KESHAV RAJ",
@@ -1378,6 +1444,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 67,
     ADMISSION: "CPS-NUR- 12689-2022",
     ROLL: 14,
     NAME_OF_STUDENT: "PALLAVI KUMARI",
@@ -1399,6 +1466,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 68,
     ADMISSION: "CPS-PREP- 3214-2024",
     ROLL: 15,
     NAME_OF_STUDENT: "PRATYUSH RAJ",
@@ -1420,6 +1488,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 69,
     ADMISSION: "CPS-NUR- 2688-2022",
     ROLL: 16,
     NAME_OF_STUDENT: "PRITAM KUMAR",
@@ -1440,6 +1509,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 70,
     ADMISSION: "CPS-KG- 2976-2023",
     ROLL: 17,
     NAME_OF_STUDENT: "RAJ SINGH",
@@ -1461,6 +1531,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 71,
     ADMISSION: "CPS-PREP- 3176-2024",
     ROLL: 18,
     NAME_OF_STUDENT: "RITESH KUMAR",
@@ -1482,6 +1553,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 72,
     ADMISSION: "CPS-PREP- 3153-2024",
     ROLL: 19,
     NAME_OF_STUDENT: "RITU RAJ",
@@ -1502,6 +1574,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 73,
     ADMISSION: "CPS-KG- 2885-2023",
     ROLL: 20,
     NAME_OF_STUDENT: "ROMIT VISHKARMA",
@@ -1523,6 +1596,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 74,
     ADMISSION: "CPS-NUR- 2570-2022",
     ROLL: 21,
     NAME_OF_STUDENT: "SACHIN KUMAR",
@@ -1544,6 +1618,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 75,
     ADMISSION: "CPS-NUR- 2569-2022",
     ROLL: 22,
     NAME_OF_STUDENT: "SHIV SAKTI KUMAR",
@@ -1565,6 +1640,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 76,
     ADMISSION: "CPS-NUR- 2954-2023",
     ROLL: 23,
     NAME_OF_STUDENT: "SHOURYA SINGH",
@@ -1586,6 +1662,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 77,
     ADMISSION: "CPS-NUR- 2502-2022",
     ROLL: 24,
     NAME_OF_STUDENT: "SURAJ KUMAR",
@@ -1606,6 +1683,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 78,
     ADMISSION: "CPS-KG- 2964-2023",
     ROLL: 25,
     NAME_OF_STUDENT: "YUVRAJ KUMAR",
@@ -1627,6 +1705,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 79,
     ADMISSION: "CPS-PREP- 3328-2024",
     ROLL: 26,
     NAME_OF_STUDENT: "SHANBI KUMARI",
@@ -1648,6 +1727,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 80,
     ADMISSION: "CPS-PREP- 3324-2024",
     ROLL: 27,
     NAME_OF_STUDENT: "RUDRA SINGH",
@@ -1668,6 +1748,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 81,
     ADMISSION: "CPS-PREP- 3334-2024",
     ROLL: 28,
     NAME_OF_STUDENT: "ANKIT KUMAR",
@@ -1689,6 +1770,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 82,
     ADMISSION: "CPS-I- 3302-2024",
     ROLL: 1,
     NAME_OF_STUDENT: "ABHINAV KUMAR",
@@ -1710,6 +1792,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 6,
   },
   {
+    id: 83,
     ADMISSION: "CPS-NUR- 2561-2022",
     ROLL: 2,
     NAME_OF_STUDENT: "ABHINAV SINGH",
@@ -1731,6 +1814,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 84,
     ADMISSION: "CPS-I-3313-2024",
     ROLL: 3,
     NAME_OF_STUDENT: "ADITI RANJAN",
@@ -1752,6 +1836,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 8,
   },
   {
+    id: 85,
     ADMISSION: "CPS-I- 3279-2024",
     ROLL: 4,
     NAME_OF_STUDENT: "ADWIK PRANAV",
@@ -1773,6 +1858,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 9,
   },
   {
+    id: 86,
     ADMISSION: "CPS-KG- 2529-2022",
     ROLL: 5,
     NAME_OF_STUDENT: "ANKUSH RAJ",
@@ -1787,12 +1873,13 @@ export const student_main_data_json = [
     CWCN: "NA",
     TRANS: "NA",
     AADHAR: "NA",
-    SCHOOL_HOUSE: "DELTA",
+    SCHOOL_HOUSE: "ALPHA",
     CLASS_CAPTION: "NA",
     BLOOD_GROUP: "O+",
     BUS_NUMBER: 1,
   },
   {
+    id: 87,
     ADMISSION: "CPS-PREP- 2900-2023",
     ROLL: 6,
     NAME_OF_STUDENT: "ANNAY ARNAV",
@@ -1808,12 +1895,13 @@ export const student_main_data_json = [
     CWCN: "NA",
     TRANS: "NA",
     AADHAR: "NA",
-    SCHOOL_HOUSE: "DELTA",
+    SCHOOL_HOUSE: "CHARLI",
     CLASS_CAPTION: "NA",
     BLOOD_GROUP: "O+",
     BUS_NUMBER: 10,
   },
   {
+    id: 88,
     ADMISSION: "CPS-PREP- 2909-2023",
     ROLL: 7,
     NAME_OF_STUDENT: "ANSH KUMAR",
@@ -1835,6 +1923,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 89,
     ADMISSION: "CPS-NUR- 2216-2021",
     ROLL: 8,
     NAME_OF_STUDENT: "ANSHIKHA KUMARI",
@@ -1855,6 +1944,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 90,
     ADMISSION: "CPS-PREP- 2875-2023",
     ROLL: 9,
     NAME_OF_STUDENT: "ANSHREE KMARI",
@@ -1870,12 +1960,13 @@ export const student_main_data_json = [
     CWCN: "NA",
     TRANS: "NA",
     AADHAR: "NA",
-    SCHOOL_HOUSE: "DELTA",
+    SCHOOL_HOUSE: "CHARLI",
     CLASS_CAPTION: "NA",
     BLOOD_GROUP: "O+",
     BUS_NUMBER: 4,
   },
   {
+    id: 91,
     ADMISSION: "CPS-PREP- 2882-2023",
     ROLL: 10,
     NAME_OF_STUDENT: "ANSHU KUMARI",
@@ -1890,12 +1981,13 @@ export const student_main_data_json = [
     CWCN: "NA",
     TRANS: "NA",
     AADHAR: "NA",
-    SCHOOL_HOUSE: "ALPHA",
+    SCHOOL_HOUSE: "CHARLI",
     CLASS_CAPTION: "NA",
     BLOOD_GROUP: "AB+",
     BUS_NUMBER: 4,
   },
   {
+    id: 92,
     ADMISSION: "CPS-PREP-        -2023",
     ROLL: 11,
     NAME_OF_STUDENT: "ASHWIN KUMAR",
@@ -1909,12 +2001,13 @@ export const student_main_data_json = [
     CWCN: "NA",
     TRANS: "NA",
     AADHAR: "NA",
-    SCHOOL_HOUSE: "DELTA",
+    SCHOOL_HOUSE: "CHARLI",
     CLASS_CAPTION: "NA",
     BLOOD_GROUP: "AB-",
     BUS_NUMBER: 4,
   },
   {
+    id: 93,
     ADMISSION: "CPS-PREP- 2929-2023",
     ROLL: 12,
     NAME_OF_STUDENT: "AYUSHI KUMARI",
@@ -1930,12 +2023,13 @@ export const student_main_data_json = [
     CWCN: "NA",
     TRANS: "NA",
     AADHAR: "NA",
-    SCHOOL_HOUSE: "DELTA",
+    SCHOOL_HOUSE: "CHARLI",
     CLASS_CAPTION: "NA",
     BLOOD_GROUP: "AB+",
     BUS_NUMBER: 5,
   },
   {
+    id: 94,
     ADMISSION: "CPS-I- 3210-2024",
     ROLL: 13,
     NAME_OF_STUDENT: "DIPTI ARYAN",
@@ -1951,12 +2045,13 @@ export const student_main_data_json = [
     CWCN: "NA",
     TRANS: "NA",
     AADHAR: "NA",
-    SCHOOL_HOUSE: "ALPHA",
+    SCHOOL_HOUSE: "CHARLI",
     CLASS_CAPTION: "NA",
     BLOOD_GROUP: "O+",
     BUS_NUMBER: 5,
   },
   {
+    id: 95,
     ADMISSION: "CPS-I- 3180-2024",
     ROLL: 14,
     NAME_OF_STUDENT: "DIVYANSHU KUMAR",
@@ -1972,12 +2067,13 @@ export const student_main_data_json = [
     CWCN: "NA",
     TRANS: "NA",
     AADHAR: "NA",
-    SCHOOL_HOUSE: "ALPHA",
+    SCHOOL_HOUSE: "CHARLI",
     CLASS_CAPTION: "NA",
     BLOOD_GROUP: "AB+",
     BUS_NUMBER: 7,
   },
   {
+    id: 96,
     ADMISSION: "CPS-I- 3152-2024",
     ROLL: 15,
     NAME_OF_STUDENT: "HARDIK JHA",
@@ -1999,6 +2095,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 8,
   },
   {
+    id: 97,
     ADMISSION: "CPS-NUR- 2516-2022",
     ROLL: 16,
     NAME_OF_STUDENT: "JAYANT KUMAR",
@@ -2020,6 +2117,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 9,
   },
   {
+    id: 98,
     ADMISSION: "CPS-KG- 2541-2022",
     ROLL: 17,
     NAME_OF_STUDENT: "KABIR KUMAR",
@@ -2041,6 +2139,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 99,
     ADMISSION: "CPS-NUR- 1544-2019",
     ROLL: 18,
     NAME_OF_STUDENT: "KAMINI KUMARI",
@@ -2062,6 +2161,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 100,
     ADMISSION: "CPS-I- 3229-2024",
     ROLL: 19,
     NAME_OF_STUDENT: "KAUSHAL KUMAR",
@@ -2083,6 +2183,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 101,
     ADMISSION: "CPS-I- 3120-2024",
     ROLL: 20,
     NAME_OF_STUDENT: "KHUSHI KUMARI",
@@ -2104,6 +2205,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 102,
     ADMISSION: "CPS-I- 3278-2024",
     ROLL: 21,
     NAME_OF_STUDENT: "KUMAR SAMARTH",
@@ -2119,12 +2221,13 @@ export const student_main_data_json = [
     CWCN: "NA",
     TRANS: "NA",
     AADHAR: "NA",
-    SCHOOL_HOUSE: "ALPHA",
+    SCHOOL_HOUSE: "DELTA",
     CLASS_CAPTION: "NA",
     BLOOD_GROUP: "AB+",
     BUS_NUMBER: 4,
   },
   {
+    id: 103,
     ADMISSION: "CPS-I- 3181-2024",
     ROLL: 22,
     NAME_OF_STUDENT: "LOVELLY KUMARI",
@@ -2140,12 +2243,13 @@ export const student_main_data_json = [
     CWCN: "NA",
     TRANS: "NA",
     AADHAR: "NA",
-    SCHOOL_HOUSE: "DELTA",
+    SCHOOL_HOUSE: "ALPHA",
     CLASS_CAPTION: "NA",
     BLOOD_GROUP: "AB+",
     BUS_NUMBER: 4,
   },
   {
+    id: 104,
     ADMISSION: "CPS-I- 3207-2024",
     ROLL: 23,
     NAME_OF_STUDENT: "MANISHA KUMARI",
@@ -2161,12 +2265,13 @@ export const student_main_data_json = [
     CWCN: "NA",
     TRANS: "NA",
     AADHAR: "NA",
-    SCHOOL_HOUSE: "ALPHA",
+    SCHOOL_HOUSE: "CHARLI",
     CLASS_CAPTION: "VC",
     BLOOD_GROUP: "AB-",
     BUS_NUMBER: 4,
   },
   {
+    id: 105,
     ADMISSION: "CPS-NUR -  2211-2021",
     ROLL: 24,
     NAME_OF_STUDENT: "MANSHI KUMARI",
@@ -2182,12 +2287,13 @@ export const student_main_data_json = [
     CWCN: "NA",
     TRANS: "NA",
     AADHAR: "NA",
-    SCHOOL_HOUSE: "DELTA",
+    SCHOOL_HOUSE: "CHARLI",
     CLASS_CAPTION: "NA",
     BLOOD_GROUP: "AB+",
     BUS_NUMBER: 5,
   },
   {
+    id: 106,
     ADMISSION: "CPS-PREP- 2995-2023",
     ROLL: 25,
     NAME_OF_STUDENT: "MUNNA KUMAR",
@@ -2203,12 +2309,13 @@ export const student_main_data_json = [
     CWCN: "NA",
     TRANS: "NA",
     AADHAR: "NA",
-    SCHOOL_HOUSE: "ALPHA",
+    SCHOOL_HOUSE: "CHARLI",
     CLASS_CAPTION: "NA",
     BLOOD_GROUP: "O+",
     BUS_NUMBER: 5,
   },
   {
+    id: 107,
     ADMISSION: "CPS-I- 3131-2024",
     ROLL: 26,
     NAME_OF_STUDENT: "NAVANYA VARDAN",
@@ -2224,12 +2331,13 @@ export const student_main_data_json = [
     CWCN: "NA",
     TRANS: "NA",
     AADHAR: "NA",
-    SCHOOL_HOUSE: "ALPHA",
+    SCHOOL_HOUSE: "CHARLI",
     CLASS_CAPTION: "NA",
     BLOOD_GROUP: "O+",
     BUS_NUMBER: 7,
   },
   {
+    id: 108,
     ADMISSION: "CPS-NUR -  1737-2020",
     ROLL: 27,
     NAME_OF_STUDENT: "PRATIK KUMAR",
@@ -2245,12 +2353,13 @@ export const student_main_data_json = [
     CWCN: "NA",
     TRANS: "NA",
     AADHAR: "NA",
-    SCHOOL_HOUSE: "ALPHA",
+    SCHOOL_HOUSE: "CHARLI",
     CLASS_CAPTION: "C",
     BLOOD_GROUP: "O+",
     BUS_NUMBER: 6,
   },
   {
+    id: 109,
     ADMISSION: "CPS-NUR- 2582-2022",
     ROLL: 28,
     NAME_OF_STUDENT: "RUDRA KUMAR",
@@ -2272,6 +2381,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 110,
     ADMISSION: "CPS-I- 3134-2024",
     ROLL: 29,
     NAME_OF_STUDENT: "SARIKA ANAND",
@@ -2293,6 +2403,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 8,
   },
   {
+    id: 111,
     ADMISSION: "CPS-I- 3306-2024",
     ROLL: 30,
     NAME_OF_STUDENT: "SATYAM PRAKASH",
@@ -2314,6 +2425,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 9,
   },
   {
+    id: 112,
     ADMISSION: "CPS-KG- 2587-2022",
     ROLL: 31,
     NAME_OF_STUDENT: "SHIMPY KUMARI",
@@ -2335,6 +2447,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 113,
     ADMISSION: "CPS-KG- 2856-2022",
     ROLL: 32,
     NAME_OF_STUDENT: "SHRADDHA TRIPATHI",
@@ -2356,6 +2469,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 114,
     ADMISSION: "CPS-PREP- 2981-2023",
     ROLL: 33,
     NAME_OF_STUDENT: "SHRUTI KUMARI",
@@ -2377,6 +2491,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 115,
     ADMISSION: "CPS-I- 3223-2024",
     ROLL: 34,
     NAME_OF_STUDENT: "UJJWAL KUMAR",
@@ -2398,6 +2513,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 116,
     ADMISSION: "CPS-NUR- 2394-2021",
     ROLL: 35,
     NAME_OF_STUDENT: "VANDANA YADAV",
@@ -2418,6 +2534,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 117,
     ADMISSION: "CPS-I- 3327-2024",
     ROLL: 36,
     NAME_OF_STUDENT: "SHADHAVI KUMARI",
@@ -2438,6 +2555,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 118,
     ADMISSION: "CPS-I- 3333-2024",
     ROLL: 37,
     NAME_OF_STUDENT: "PRIYANSHI KUMARI",
@@ -2459,6 +2577,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 119,
     ADMISSION: "CPS-NUR- 1481-2019",
     ROLL: "LEFT",
     NAME_OF_STUDENT: "AKSHAT KUMAR",
@@ -2480,6 +2599,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 120,
     ADMISSION: "CPS-NUR- 2254-2021",
     ROLL: "LEFT",
     NAME_OF_STUDENT: "ANANYA SINHA",
@@ -2501,6 +2621,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 121,
     ADMISSION: "CPS-KG- 2851-2022",
     ROLL: "LEFT",
     NAME_OF_STUDENT: "SOUMYA DAYAL",
@@ -2522,6 +2643,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 122,
     ADMISSION: "CPS-KG- 2490-2022",
     ROLL: "LEFT",
     NAME_OF_STUDENT: "SAJNI KUMARI",
@@ -2543,6 +2665,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 123,
     ADMISSION: "CPS-NUR-  2223-2021",
     ROLL: "LEFT",
     NAME_OF_STUDENT: "SHAMBHAVI DEEP",
@@ -2564,6 +2687,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 124,
     ROLL: "LEFT",
     NAME_OF_STUDENT: "SHIVAM KUMAR",
     FATHER_NAME: "MANISH KUMAR",
@@ -2581,6 +2705,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 125,
     ROLL: "LEFT",
     NAME_OF_STUDENT: "SHIWANI KUMARI",
     FATHER_NAME: "MANTU THAKUR",
@@ -2598,6 +2723,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 126,
     ADMISSION: "CPS-KG- 2523-2022",
     ROLL: "LEFT",
     NAME_OF_STUDENT: "ATULYA RAJ",
@@ -2619,6 +2745,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 127,
     ADMISSION: "CPS-KG- 2519-2022",
     ROLL: "LEFT",
     NAME_OF_STUDENT: "AVANI SINGH",
@@ -2640,6 +2767,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 128,
     ADMISSION: "CPS-KG- 2533-2022",
     ROLL: "LEFT",
     NAME_OF_STUDENT: "PRAVYA KUMARI",
@@ -2661,6 +2789,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 129,
     ADMISSION: "CPS-KG- 2624-2022",
     ROLL: "LEFT",
     NAME_OF_STUDENT: "ANSHI KUMARI",
@@ -2682,6 +2811,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 130,
     ADMISSION: "CPS-NUR- 2408-2021",
     ROLL: 1,
     NAME_OF_STUDENT: "AARAV PRASAR",
@@ -2702,6 +2832,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 131,
     ADMISSION: "CPS-I- 3136-2024",
     ROLL: 24,
     NAME_OF_STUDENT: "MANYA PRAKASH",
@@ -2723,6 +2854,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 132,
     ADMISSION: "CPS-KG- 2539-2022",
     ROLL: 29,
     NAME_OF_STUDENT: "RUDRA PRATAP SINGH",
@@ -2744,6 +2876,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 133,
     ADMISSION: "CPS-II- 3156-2024",
     ROLL: 1,
     NAME_OF_STUDENT: "AANYA KUMARI",
@@ -2765,6 +2898,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 134,
     ADMISSION: "CPS-NUR - 1472 -2019",
     ROLL: 2,
     NAME_OF_STUDENT: "AAROHI KUMARI",
@@ -2785,6 +2919,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 8,
   },
   {
+    id: 135,
     ADMISSION: "CPS-PREP- 2530-2022",
     ROLL: 3,
     NAME_OF_STUDENT: "ABHAY KUMAR",
@@ -2806,6 +2941,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 9,
   },
   {
+    id: 136,
     ADMISSION: "CPS-II- 3304-2024",
     ROLL: 4,
     NAME_OF_STUDENT: "ABHINAV KUMAR",
@@ -2826,6 +2962,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 137,
     ADMISSION: "CPS-I- 2577-2022",
     ROLL: 5,
     NAME_OF_STUDENT: "ADARSH KUMAR",
@@ -2847,6 +2984,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 138,
     ADMISSION: "CPS-I- 2944-2023",
     ROLL: 6,
     NAME_OF_STUDENT: "ADITAYA RANJAN PANDEY",
@@ -2868,6 +3006,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 139,
     ADMISSION: "CPS-NUR -  1718-2019",
     ROLL: 7,
     NAME_OF_STUDENT: "ADITYA RAJ ",
@@ -2889,6 +3028,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 140,
     ADMISSION: "CPS-II- 3154-2024",
     ROLL: 8,
     NAME_OF_STUDENT: "ALISHA BHARATI",
@@ -2910,6 +3050,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 141,
     ADMISSION: "CPS-NUR - 1770 -2020",
     ROLL: 9,
     NAME_OF_STUDENT: "AMRITANSHU KUMAR",
@@ -2930,6 +3071,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 142,
     ADMISSION: "CPS-PREP- 2610-2022",
     ROLL: 10,
     NAME_OF_STUDENT: "ANCH RAJ",
@@ -2951,6 +3093,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 143,
     ADMISSION: "CPS-PREP- 2693-2022",
     ROLL: 11,
     NAME_OF_STUDENT: "ANIKET KUMAR SINGH",
@@ -2972,6 +3115,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 144,
     ADMISSION: "CPS-II- 3224-2024",
     ROLL: 12,
     NAME_OF_STUDENT: "ANUPAM KUMAR",
@@ -2993,6 +3137,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 145,
     ADMISSION: "CPS-II- 3126-2024",
     ROLL: 13,
     NAME_OF_STUDENT: "ARNAV KUMAR",
@@ -3014,6 +3159,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 146,
     ADMISSION: "CPS-II- 3177-2024",
     ROLL: 14,
     NAME_OF_STUDENT: "ARNAV RAJ",
@@ -3035,6 +3181,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 147,
     ADMISSION: "CPS-PREP- 2692-2022",
     ROLL: 15,
     NAME_OF_STUDENT: "AYUSH RAJ",
@@ -3056,6 +3203,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 148,
     ADMISSION: "CPS-I-2911- 2023",
     ROLL: 16,
     NAME_OF_STUDENT: "CHANDAN KUMAR",
@@ -3077,6 +3225,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 149,
     ADMISSION: "CPS-II- 3158-2024",
     ROLL: 17,
     NAME_OF_STUDENT: "DARSHIT BARIYAR",
@@ -3098,6 +3247,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 150,
     ADMISSION: "CPS-I- 2956-2023",
     ROLL: 18,
     NAME_OF_STUDENT: "KALPANA KUMARI",
@@ -3119,6 +3269,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 151,
     ADMISSION: "CPS-KG- 2212-2021",
     ROLL: 19,
     NAME_OF_STUDENT: "MAYANK KUMAR",
@@ -3140,6 +3291,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 152,
     ADMISSION: "CPS-II- 3150-2024",
     ROLL: 20,
     NAME_OF_STUDENT: "PIYUSH KUMAR",
@@ -3161,6 +3313,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 153,
     ADMISSION: "CPS-II- 3142-2024",
     ROLL: 21,
     NAME_OF_STUDENT: "PREM KUMAR",
@@ -3182,6 +3335,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 154,
     ADMISSION: "CPS-PREP- 2560-2022",
     ROLL: 22,
     NAME_OF_STUDENT: "PRINCE KUMAR",
@@ -3203,6 +3357,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 155,
     ADMISSION: "CPS-II- 3179-2024",
     ROLL: 23,
     NAME_OF_STUDENT: "PRIYANSHU RAJ",
@@ -3224,6 +3379,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 6,
   },
   {
+    id: 156,
     ADMISSION: "CPS-NUR - 1435 -2019",
     ROLL: 24,
     NAME_OF_STUDENT: "RITESH KUMAR",
@@ -3245,6 +3401,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 157,
     ADMISSION: "CPS-I- 2872-2023",
     ROLL: 25,
     NAME_OF_STUDENT: "SALONI KUMARI",
@@ -3266,6 +3423,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 8,
   },
   {
+    id: 158,
     ADMISSION: "CPS-I- 2894-2023",
     ROLL: 26,
     NAME_OF_STUDENT: "SAMRAT KUMAR",
@@ -3286,6 +3444,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 9,
   },
   {
+    id: 159,
     ADMISSION: "CPS-II- 3167-2024",
     ROLL: 27,
     NAME_OF_STUDENT: "SANDHYA KUMARI",
@@ -3307,6 +3466,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 160,
     ADMISSION: "CPS-KG -  2244-2021",
     ROLL: 28,
     NAME_OF_STUDENT: "SATYAM KUMAR",
@@ -3328,6 +3488,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 161,
     ADMISSION: "CPS-II- 3165-2024",
     ROLL: 29,
     NAME_OF_STUDENT: "SATYAM KUMAR",
@@ -3349,6 +3510,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 162,
     ADMISSION: "CPS-PREP- 2553-2022",
     ROLL: 30,
     NAME_OF_STUDENT: "SHABAD PRAKASH SATSANGI",
@@ -3370,6 +3532,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 163,
     ADMISSION: "CPS-I- 2543-2022",
     ROLL: 31,
     NAME_OF_STUDENT: "SHIDDHRATH NARAYAN SINGH",
@@ -3391,6 +3554,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 164,
     ADMISSION: "CPS-NUR - 1448 -2019",
     ROLL: 32,
     NAME_OF_STUDENT: "SHUBHASH KUMAR",
@@ -3411,6 +3575,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 165,
     ADMISSION: "CPS-NUR - 1511 -2019",
     ROLL: 33,
     NAME_OF_STUDENT: "VIRAT KUMAR",
@@ -3431,6 +3596,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 166,
     ADMISSION: "CPS-NUR - 1490 -2019",
     ROLL: 34,
     NAME_OF_STUDENT: "YASH RAJ",
@@ -3451,6 +3617,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 167,
     ADMISSION: "CPS-II- 3326-2024",
     ROLL: 35,
     NAME_OF_STUDENT: "BHARGAVI KUMARI",
@@ -3472,6 +3639,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 168,
     ADMISSION: "CPS-I- 2538-2022",
     ROLL: "LEFT",
     NAME_OF_STUDENT: "ANISHIKA SINGH",
@@ -3493,6 +3661,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 169,
     ADMISSION: "CPS- NUR- 1711 -2019",
     ROLL: "LEFT",
     NAME_OF_STUDENT: "YASHASVI UPADHYAY",
@@ -3514,6 +3683,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 8,
   },
   {
+    id: 170,
     ADMISSION: "CPS-I- 3056-2023",
     ROLL: "LEFT",
     NAME_OF_STUDENT: "AISHA PRIYA",
@@ -3535,6 +3705,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 9,
   },
   {
+    id: 171,
     ADMISSION: "CPS-I- 2617-2022",
     ROLL: "LEFT",
     NAME_OF_STUDENT: "SHIKSHA KUMARI",
@@ -3556,6 +3727,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 172,
     ADMISSION: "CPS-NUR - 1184 -2018",
     ROLL: "LEFT",
     NAME_OF_STUDENT: "RITIK KUMAR",
@@ -3576,6 +3748,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 173,
     ADMISSION: "CPS-PREP- 2653-2022",
     ROLL: "LEFT",
     NAME_OF_STUDENT: "ROBIN KUMAR",
@@ -3597,6 +3770,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 174,
     ADMISSION: "CPS-KG - 1775 -2020",
     ROLL: "LEFT",
     NAME_OF_STUDENT: "NISHANT KUMAR",
@@ -3618,6 +3792,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 175,
     ADMISSION: "CPS-I- 2960-2023",
     ROLL: "LEFT",
     NAME_OF_STUDENT: "PRINCE KUMAR",
@@ -3639,6 +3814,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 176,
     ROLL: "LEFT",
     NAME_OF_STUDENT: "DHRUV KUMAR",
     FATHER_NAME: "DHIRENDRA SINGH",
@@ -3656,6 +3832,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 177,
     ADMISSION: "CPS-I- 3057-2023",
     ROLL: 25,
     NAME_OF_STUDENT: "RIYA KUMARI",
@@ -3677,6 +3854,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 178,
     ADMISSION: "CPS-I- 2618-2022",
     ROLL: 5,
     NAME_OF_STUDENT: "ADARSH KUMAR",
@@ -3698,6 +3876,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 179,
     ADMISSION: "CPS-II- 2927-2023",
     ROLL: 1,
     NAME_OF_STUDENT: "AARUSH RAJ",
@@ -3719,6 +3898,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 180,
     ADMISSION: "CPS-PREP- 2219-2021",
     ROLL: 2,
     NAME_OF_STUDENT: "AMAN KUMAR",
@@ -3740,6 +3920,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 181,
     ADMISSION: "CPS-I- 2656-2022",
     ROLL: 3,
     NAME_OF_STUDENT: "AMAN KUMAR",
@@ -3761,6 +3942,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 6,
   },
   {
+    id: 182,
     ADMISSION: "CPS-II- 2907-2023",
     ROLL: 4,
     NAME_OF_STUDENT: "ANIRUDH RANJAN",
@@ -3782,6 +3964,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 183,
     ADMISSION: "CPS-II- 2903-2023",
     ROLL: 5,
     NAME_OF_STUDENT: "ANJALI KUMARI",
@@ -3803,6 +3986,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 8,
   },
   {
+    id: 184,
     ADMISSION: "CPS-PREP- 1767-2020",
     ROLL: 6,
     NAME_OF_STUDENT: "ANSH KUMAR ",
@@ -3824,6 +4008,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 9,
   },
   {
+    id: 185,
     ADMISSION: "CPS-KG - 1493 -2019",
     ROLL: 7,
     NAME_OF_STUDENT: "ANUSHKA KUMARI",
@@ -3845,6 +4030,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 186,
     ADMISSION: "CPS-I- 2592-2022",
     ROLL: 8,
     NAME_OF_STUDENT: "ARYAN RAJ",
@@ -3866,6 +4052,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 187,
     ADMISSION: "CPS-KG - 1447 -2019",
     ROLL: 9,
     NAME_OF_STUDENT: "ATUL KUMAR",
@@ -3886,6 +4073,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 188,
     ADMISSION: "CPS-PREP- 1970-2020",
     ROLL: 10,
     NAME_OF_STUDENT: "AYUSH KUMAR",
@@ -3907,6 +4095,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 189,
     ADMISSION: "CPS-II- 2894-2023",
     ROLL: 11,
     NAME_OF_STUDENT: "DHIRAJ KUMAR",
@@ -3927,6 +4116,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 190,
     ADMISSION: "CPS-I- 2528-2022",
     ROLL: 12,
     NAME_OF_STUDENT: "DIVYA KUMARI",
@@ -3948,6 +4138,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 191,
     ADMISSION: "CPS-I- 2718-2022",
     ROLL: 13,
     NAME_OF_STUDENT: "KAVYA RANI",
@@ -3969,6 +4160,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 192,
     ADMISSION: "CPS-PREP- 2242-2021",
     ROLL: 14,
     NAME_OF_STUDENT: "KRITI RAJ ",
@@ -3990,6 +4182,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 193,
     ADMISSION: "CPS-NUR- 1720-2019",
     ROLL: 15,
     NAME_OF_STUDENT: "LABALI KUMARI",
@@ -4011,6 +4204,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 194,
     ADMISSION: "CPS-I- 2615-2022",
     ROLL: 16,
     NAME_OF_STUDENT: "MADHVI KUMARI",
@@ -4031,6 +4225,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 195,
     ADMISSION: "CPS-I- 2616-2022",
     ROLL: 17,
     NAME_OF_STUDENT: "MANU RAJ SINGH",
@@ -4052,6 +4247,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 196,
     ADMISSION: "CPS-II- 3002-2023",
     ROLL: 18,
     NAME_OF_STUDENT: "MAUSHAM KUMAR",
@@ -4073,6 +4269,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 197,
     ADMISSION: "CPS-III- 3172-2024",
     ROLL: 19,
     NAME_OF_STUDENT: "MAYANK KUMAR",
@@ -4094,6 +4291,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 198,
     ADMISSION: "CPS-II- 2895-2023",
     ROLL: 20,
     NAME_OF_STUDENT: "NEERAJ KUMAR",
@@ -4114,6 +4312,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 199,
     ADMISSION: "CPS-III- 3228-2024",
     ROLL: 21,
     NAME_OF_STUDENT: "PRIYANSHU KUMARI",
@@ -4135,6 +4334,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 200,
     ADMISSION: "CPS-I- 2559-2022",
     ROLL: 22,
     NAME_OF_STUDENT: "RAJ NANDANI KUMARI",
@@ -4156,6 +4356,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 201,
     ADMISSION: "CPS-I- 2535-2022",
     ROLL: 23,
     NAME_OF_STUDENT: "SANDHYA KUMARI",
@@ -4177,6 +4378,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 202,
     ADMISSION: "CPS-III- 3206-2024",
     ROLL: 24,
     NAME_OF_STUDENT: "SANJANA KUMARI",
@@ -4198,6 +4400,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 203,
     ADMISSION: "CPS-II- 2904-2023",
     ROLL: 25,
     NAME_OF_STUDENT: "SANSKAR KUMAR",
@@ -4219,6 +4422,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 204,
     ADMISSION: "CPS-III-3221-2024",
     ROLL: 26,
     NAME_OF_STUDENT: "SEZAL KUMARI",
@@ -4240,6 +4444,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 205,
     ADMISSION: "CPS-III- 3118-2024",
     ROLL: 27,
     NAME_OF_STUDENT: "SIMRAN KUMARI",
@@ -4261,6 +4466,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 206,
     ADMISSION: "CPS- NUR- 1230 -2018",
     ROLL: 28,
     NAME_OF_STUDENT: "UTTAM KUMAR",
@@ -4282,6 +4488,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 207,
     ADMISSION: "CPS-III- 3160-2024",
     ROLL: 29,
     NAME_OF_STUDENT: "VIRAJ KUMAR",
@@ -4302,6 +4509,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 8,
   },
   {
+    id: 208,
     ADMISSION: "CPS-I- 2741-2022",
     ROLL: 30,
     NAME_OF_STUDENT: "ZAINAB AFROZ",
@@ -4323,6 +4531,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 9,
   },
   {
+    id: 209,
     ADMISSION: "CPS-III- 3338-2024",
     ROLL: 31,
     NAME_OF_STUDENT: "ANIKET KUMAR",
@@ -4344,6 +4553,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 210,
     ADMISSION: "CPS-PREP- 2476-2021",
     ROLL: "LEFT",
     NAME_OF_STUDENT: "UJJWAL PASWAN",
@@ -4365,6 +4575,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 211,
     ADMISSION: "CPS-II- 2914-2023",
     ROLL: "LEFT",
     NAME_OF_STUDENT: "UTKARSH RAJ",
@@ -4386,6 +4597,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 212,
     ADMISSION: "CPS-I- 2597-2022",
     ROLL: "LEFT",
     NAME_OF_STUDENT: "NIDHI KUMARI",
@@ -4406,6 +4618,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 213,
     ADMISSION: "CPS- PREP- 2409 -2021",
     ROLL: "LEFT",
     NAME_OF_STUDENT: "LAKSH SINGH",
@@ -4427,6 +4640,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 214,
     ADMISSION: "CPS-I- 2657-2022",
     ROLL: "LEFT",
     NAME_OF_STUDENT: "GAURAV RANJAN",
@@ -4448,6 +4662,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 215,
     ADMISSION: "CPS-I- 2596-2022",
     ROLL: "LEFT",
     NAME_OF_STUDENT: "AYUSH KUMAR ",
@@ -4468,6 +4683,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 216,
     ADMISSION: "CPS-II- 2924-2023",
     ROLL: "LEFT",
     NAME_OF_STUDENT: "ARCHANA KUMARI",
@@ -4489,6 +4705,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 217,
     ADMISSION: "CPS-NUR- 1529-2019",
     ROLL: "LEFT",
     NAME_OF_STUDENT: "AASHI PRAKASH",
@@ -4510,6 +4727,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 218,
     ADMISSION: "CPS-I- 2655-2022",
     ROLL: 2,
     NAME_OF_STUDENT: "ADITYA RAJ ",
@@ -4531,6 +4749,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 219,
     ADMISSION: "CPS-I- 2547-2022",
     ROLL: 15,
     NAME_OF_STUDENT: "HARSH RAJ",
@@ -4552,6 +4771,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 220,
     ADMISSION: "CPS-II- 2902-2023",
     ROLL: 29,
     NAME_OF_STUDENT: "SIDDHARTH KUMAR",
@@ -4573,6 +4793,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 221,
     ADMISSION: "CPS-I- 2614-2023",
     ROLL: 6,
     NAME_OF_STUDENT: "ANKIT KUMAR",
@@ -4594,6 +4815,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 222,
     ADMISSION: "CPS-I -1768-2020",
     ROLL: 1,
     NAME_OF_STUDENT: "AASHI KUMARI",
@@ -4615,6 +4837,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 223,
     ADMISSION: "CPS- I-1953-2020",
     ROLL: 2,
     NAME_OF_STUDENT: "AASHIKA SINGH ",
@@ -4636,6 +4859,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 224,
     ADMISSION: "CPS- I-2214-2021",
     ROLL: 3,
     NAME_OF_STUDENT: "ABHI RAJ",
@@ -4657,6 +4881,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 225,
     ADMISSION: "CPS-II-2750-2022",
     ROLL: 4,
     NAME_OF_STUDENT: "ABHIMANYU RAJ",
@@ -4678,6 +4903,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 226,
     ADMISSION: "CPS-I -2222-2021",
     ROLL: 5,
     NAME_OF_STUDENT: "ADITI KUMARI",
@@ -4699,6 +4925,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 227,
     ADMISSION: "CPS-IV- 3282-2024",
     ROLL: 6,
     NAME_OF_STUDENT: "AMAN KUMAR",
@@ -4720,6 +4947,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 228,
     ADMISSION: "CPS-I -2419-2021",
     ROLL: 7,
     NAME_OF_STUDENT: "ANANYA KUMARI**",
@@ -4741,6 +4969,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 6,
   },
   {
+    id: 229,
     ADMISSION: "CPS-IV- 3220-2024",
     ROLL: 8,
     NAME_OF_STUDENT: "ANGLE KUMARI",
@@ -4762,6 +4991,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 230,
     ADMISSION: "CPS-I -2417-2021",
     ROLL: 9,
     NAME_OF_STUDENT: "ANSH KUMAR**",
@@ -4783,6 +5013,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 8,
   },
   {
+    id: 231,
     ADMISSION: "CPS-IV- 3305-2024",
     ROLL: 10,
     NAME_OF_STUDENT: "ANUSHKA KUMARI",
@@ -4804,6 +5035,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 9,
   },
   {
+    id: 232,
     ADMISSION: "CPS-II-2524-2022",
     ROLL: 11,
     NAME_OF_STUDENT: "ARADHYA RAY",
@@ -4825,6 +5057,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 233,
     ADMISSION: "CPS-NUR-1242-2018",
     ROLL: 12,
     NAME_OF_STUDENT: "ARYAN KUMAR",
@@ -4845,6 +5078,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 234,
     ADMISSION: "CPS-II-2532-2022",
     ROLL: 13,
     NAME_OF_STUDENT: "BIRU KUMAR",
@@ -4865,6 +5099,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 235,
     ADMISSION: "CPS-IV- 3178-2024",
     ROLL: 14,
     NAME_OF_STUDENT: "DEEPANJALI KUMARI",
@@ -4886,6 +5121,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 236,
     ADMISSION: "CPS-I- 2547-2022",
     ROLL: 15,
     NAME_OF_STUDENT: "HARSH RAJ",
@@ -4907,6 +5143,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 237,
     ADMISSION: "CPS-II-2859-2022",
     ROLL: 16,
     NAME_OF_STUDENT: "MADHU RANJAN ",
@@ -4928,6 +5165,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 238,
     ADMISSION: "CPS-IV- 3208-2024",
     ROLL: 17,
     NAME_OF_STUDENT: "MANBI RAJ",
@@ -4949,6 +5187,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 239,
     ADMISSION: "CPS-I -2428-2021",
     ROLL: 18,
     NAME_OF_STUDENT: "MD. SOHAIB **",
@@ -4970,6 +5209,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 240,
     ADMISSION: "CPS-IV- 3219-2024",
     ROLL: 19,
     NAME_OF_STUDENT: "NANCY SHARMA",
@@ -4991,6 +5231,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 241,
     ADMISSION: "CPS-IV- 3204-2024",
     ROLL: 20,
     NAME_OF_STUDENT: "POORVI KUMARI",
@@ -5012,6 +5253,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 242,
     ADMISSION: "CPS-II-2704-2022",
     ROLL: 21,
     NAME_OF_STUDENT: "RADHIKA CHAURASIA",
@@ -5033,6 +5275,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 8,
   },
   {
+    id: 243,
     ADMISSION: "CPS-IV- 3280-2024",
     ROLL: 22,
     NAME_OF_STUDENT: "RAJ NANDANI",
@@ -5054,6 +5297,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 9,
   },
   {
+    id: 244,
     ADMISSION: "CPS-III-2892-2023",
     ROLL: 23,
     NAME_OF_STUDENT: "RIYA KUMARI",
@@ -5075,6 +5319,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 245,
     ADMISSION: "CPS-II-2510-2022",
     ROLL: 24,
     NAME_OF_STUDENT: "ROHIT KUMAR",
@@ -5095,6 +5340,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 246,
     ADMISSION: "CPS-IV- 3116-2024",
     ROLL: 25,
     NAME_OF_STUDENT: "ROUSHAN KUMAR PANDEY",
@@ -5116,6 +5362,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 247,
     ADMISSION: "CPS-PREP.-1733-2019",
     ROLL: 26,
     NAME_OF_STUDENT: "SACHIN KUMAR",
@@ -5137,6 +5384,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 248,
     ADMISSION: "CPS-III-2884-2023",
     ROLL: 27,
     NAME_OF_STUDENT: "SACHIN KUMAR II",
@@ -5158,6 +5406,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 249,
     ADMISSION: "CPS-III-2563 -2023",
     ROLL: 28,
     NAME_OF_STUDENT: "SATYAM KUMAR",
@@ -5178,6 +5427,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 250,
     ADMISSION: "CPS-I -2426-2021",
     ROLL: 29,
     NAME_OF_STUDENT: "SUBHANSHI KUMARI **",
@@ -5199,6 +5449,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 251,
     ADMISSION: "CPS-III-2891-2023",
     ROLL: 30,
     NAME_OF_STUDENT: "SUPRIYA KUMARI",
@@ -5220,6 +5471,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 252,
     ADMISSION: "CPS-II-2659-2023",
     ROLL: 31,
     NAME_OF_STUDENT: "TEJASHVI KUMAR",
@@ -5241,6 +5493,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 253,
     ADMISSION: "CPS-II-2521-2022",
     ROLL: 32,
     NAME_OF_STUDENT: "YUVRAJ KUMAR",
@@ -5262,6 +5515,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 254,
     ADMISSION: "CPS- PREP-1974-2020",
     ROLL: "CLASS 5",
     NAME_OF_STUDENT: "PRAKRITI ",
@@ -5283,6 +5537,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 6,
   },
   {
+    id: 255,
     ADMISSION: "CPS-I -2433-2021",
     ROLL: "LEFT",
     NAME_OF_STUDENT: "ISHANT SINHA",
@@ -5304,6 +5559,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 256,
     ADMISSION: "CPS-I-2255-2021",
     ROLL: "LEFT",
     NAME_OF_STUDENT: "KUMARI AAKRITI",
@@ -5325,6 +5581,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 8,
   },
   {
+    id: 257,
     ROLL: "LEFT",
     NAME_OF_STUDENT: "MADHAV KUMAR",
     FATHER_NAME: "SAURAV SINGH",
@@ -5342,6 +5599,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 258,
     ROLL: "LEFT",
     NAME_OF_STUDENT: "ADITY RAJ",
     FATHER_NAME: "AMITHESH KUMAR",
@@ -5359,6 +5617,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 259,
     ADMISSION: "CPS-II-2518-2022",
     ROLL: "LEFT",
     NAME_OF_STUDENT: "AKSHARA SINGH",
@@ -5380,6 +5639,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 260,
     ADMISSION: "CPS-I -2257-2021",
     ROLL: "LEFT",
     NAME_OF_STUDENT: "ANANYA KUMARI",
@@ -5401,6 +5661,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 261,
     ADMISSION: "CPS-I-2256-2021",
     ROLL: "LEFT",
     NAME_OF_STUDENT: "ANISH KUMAR ANSH",
@@ -5422,6 +5683,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 262,
     ADMISSION: "CPS- I-2181-2021",
     ROLL: "LEFT",
     NAME_OF_STUDENT: "ANUSHKA SINHA",
@@ -5443,6 +5705,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 263,
     ADMISSION: "CPS-III-2971-2023",
     ROLL: 20,
     NAME_OF_STUDENT: "PRINCE KUMAR",
@@ -5464,6 +5727,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 264,
     ADMISSION: "CPS-III-2901-2023",
     ROLL: 21,
     NAME_OF_STUDENT: "PRIYANSHU KUMAR",
@@ -5485,6 +5749,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 265,
     ADMISSION: "CPS-II-2498-2022",
     ROLL: 22,
     NAME_OF_STUDENT: "PUSHKER RAJ BHARTI",
@@ -5506,6 +5771,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 266,
     ADMISSION: "CPS-I -2395-2021",
     ROLL: 31,
     NAME_OF_STUDENT: "SONI KUMARI",
@@ -5526,6 +5792,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 267,
     ADMISSION: "CPS-II-2497-2022",
     ROLL: 13,
     NAME_OF_STUDENT: "CHANDANI KUMARI",
@@ -5547,6 +5814,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 268,
     ADMISSION: "CPS-V- 3211-2024",
     ROLL: 1,
     NAME_OF_STUDENT: "AADITYA RAJ",
@@ -5568,6 +5836,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 269,
     ADMISSION: "CPS-V- 2928-2023",
     ROLL: 2,
     NAME_OF_STUDENT: "AAROHI ",
@@ -5589,6 +5858,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 270,
     ADMISSION: "CPS-I- 1954-2020",
     ROLL: 3,
     NAME_OF_STUDENT: "ABHISHEK RAJ",
@@ -5610,6 +5880,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 271,
     ADMISSION: "CPS-III- 2580-2022",
     ROLL: 4,
     NAME_OF_STUDENT: "ANSH KUMAR MAURYA",
@@ -5631,6 +5902,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 272,
     ADMISSION: "CPS-V- 3298-2024",
     ROLL: 5,
     NAME_OF_STUDENT: "ANSHU KUMARI",
@@ -5652,6 +5924,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 9,
   },
   {
+    id: 273,
     ADMISSION: "CPS-III- 2575-2022",
     ROLL: 6,
     NAME_OF_STUDENT: "AWANTIKA KUMARI",
@@ -5673,6 +5946,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 274,
     ADMISSION: "CPS-III- 2534-2022",
     ROLL: 7,
     NAME_OF_STUDENT: "CHITRANSH KUMAR",
@@ -5694,6 +5968,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 275,
     ADMISSION: "CPS-I- 2225-2021",
     ROLL: 8,
     NAME_OF_STUDENT: "DEEPAK KUMAR",
@@ -5715,6 +5990,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 276,
     ADMISSION: "CPS-V- 3157-2024",
     ROLL: 9,
     NAME_OF_STUDENT: "DIVYANSH BARIYAR",
@@ -5736,6 +6012,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 277,
     ADMISSION: "CPS-V- 3205-2024",
     ROLL: 10,
     NAME_OF_STUDENT: "DIVYANSHU RANJAN",
@@ -5757,6 +6034,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 278,
     ADMISSION: "CPS-III- 2612-2022",
     ROLL: 11,
     NAME_OF_STUDENT: "JANVI KUMARI",
@@ -5778,6 +6056,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 279,
     ADMISSION: "CPS-III- 2556-2022",
     ROLL: 12,
     NAME_OF_STUDENT: "JIGAR KUMAR",
@@ -5799,6 +6078,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 280,
     ADMISSION: "CPS- I - 1960-2020",
     ROLL: 13,
     NAME_OF_STUDENT: "LAXMI KUMARI",
@@ -5819,6 +6099,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 281,
     ADMISSION: "CPS-III- 2744-2022",
     ROLL: 14,
     NAME_OF_STUDENT: "LUCKY RAJ",
@@ -5840,6 +6121,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 282,
     ADMISSION: "CPS-II - 1934-2020",
     ROLL: 15,
     NAME_OF_STUDENT: "MAHI KUMARI",
@@ -5861,6 +6143,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 283,
     ADMISSION: "CPS-IV-2961-2023",
     ROLL: 16,
     NAME_OF_STUDENT: "MANJIT KUMAR",
@@ -5882,6 +6165,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 6,
   },
   {
+    id: 284,
     ADMISSION: "CPS-PREP - 1512-2019",
     ROLL: 17,
     NAME_OF_STUDENT: "MANTU KUMAR",
@@ -5902,6 +6186,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 285,
     ADMISSION: "CPS-IV- 2890-2023",
     ROLL: 18,
     NAME_OF_STUDENT: "MONA KUMARI",
@@ -5923,6 +6208,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 8,
   },
   {
+    id: 286,
     ADMISSION: "CPS-I - 1961-2020",
     ROLL: 19,
     NAME_OF_STUDENT: "NANCY KUMARI",
@@ -5944,6 +6230,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 287,
     ADMISSION: "CPS-I - 1962-2020",
     ROLL: 20,
     NAME_OF_STUDENT: "NICKY KUMAR",
@@ -5964,6 +6251,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 288,
     ADMISSION: "CPS-III- 2540-2022",
     ROLL: 21,
     NAME_OF_STUDENT: "PAPPU KUMAR",
@@ -5985,6 +6273,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 289,
     ADMISSION: "CPS-IV- 2950-2023",
     ROLL: 22,
     NAME_OF_STUDENT: "PAWNI VERMA",
@@ -6006,6 +6295,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 290,
     ADMISSION: "CPS-KG - 1268-2018",
     ROLL: 23,
     NAME_OF_STUDENT: "PAYAL KUMARI",
@@ -6026,6 +6316,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 291,
     ADMISSION: "CPS-III-2549-2022",
     ROLL: 24,
     NAME_OF_STUDENT: "PIYUSH RAJ ",
@@ -6047,6 +6338,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 292,
     ADMISSION: "CPS- PREP-1974-2020",
     ROLL: 25,
     NAME_OF_STUDENT: "PRAKRITI ",
@@ -6068,6 +6360,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 293,
     ADMISSION: "CPS-IV- 2879-2023",
     ROLL: 26,
     NAME_OF_STUDENT: "PRIYANSHI KUMARI",
@@ -6089,6 +6382,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 294,
     ADMISSION: "CPS-II - 1951-2020",
     ROLL: 27,
     NAME_OF_STUDENT: "RADHIKA KUMARI",
@@ -6110,6 +6404,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 295,
     ADMISSION: "CPS-II - 1741-2020",
     ROLL: 28,
     NAME_OF_STUDENT: "RAJKISHOR",
@@ -6131,6 +6426,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 296,
     ADMISSION: "CPS-KG- 1411-2018",
     ROLL: 29,
     NAME_OF_STUDENT: "RITIKA BHARTI",
@@ -6151,6 +6447,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 297,
     ADMISSION: "CPS-I- 1963-2020",
     ROLL: 30,
     NAME_OF_STUDENT: "ROSHANI KUMARI",
@@ -6171,6 +6468,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 298,
     ADMISSION: "CPS-III- 2573-2022",
     ROLL: 31,
     NAME_OF_STUDENT: "SAURYA KUMAR",
@@ -6192,6 +6490,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 299,
     ADMISSION: "CPS-II - 1952 -2020",
     ROLL: 32,
     NAME_OF_STUDENT: "SHAKSHI KUMARI",
@@ -6212,6 +6511,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 300,
     ADMISSION: "CPS-IV- 2986-2023",
     ROLL: 33,
     NAME_OF_STUDENT: "SHALINI ",
@@ -6233,6 +6533,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 301,
     ADMISSION: "CPS-I - 1966-2020",
     ROLL: 34,
     NAME_OF_STUDENT: "SIDHU KUMAR",
@@ -6254,6 +6555,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 9,
   },
   {
+    id: 302,
     ADMISSION: "CPS-IV- 2948-2023",
     ROLL: 35,
     NAME_OF_STUDENT: "SIMPI KUMARI",
@@ -6275,6 +6577,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 303,
     ADMISSION: "CPS-III- 2531-2022",
     ROLL: 36,
     NAME_OF_STUDENT: "SNEHA KUMARI",
@@ -6296,6 +6599,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 304,
     ADMISSION: "CPS-III- 2525-2022",
     ROLL: 37,
     NAME_OF_STUDENT: "SOHIT KUMAR",
@@ -6317,6 +6621,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 305,
     ADMISSION: "CPS-II- 2192-2021",
     ROLL: 38,
     NAME_OF_STUDENT: "SRISHTI RANI",
@@ -6337,6 +6642,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 306,
     ADMISSION: "CPS-II- 2201-2021",
     ROLL: 39,
     NAME_OF_STUDENT: "SUHANI KUMARI",
@@ -6357,6 +6663,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 307,
     ADMISSION: "CPS-PREP - 1444-2019",
     ROLL: 40,
     NAME_OF_STUDENT: "SUSHIL KUMAR",
@@ -6377,6 +6684,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 308,
     ADMISSION: "CPS-V- 3144-2024",
     ROLL: 1,
     NAME_OF_STUDENT: "AASHU KUMAR",
@@ -6398,6 +6706,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 309,
     ADMISSION: "CPS-I -1769-2020",
     ROLL: 2,
     NAME_OF_STUDENT: "ABHIJEET KUMAR",
@@ -6419,6 +6728,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 310,
     ADMISSION: "CPS-II-2240-2021",
     ROLL: 3,
     NAME_OF_STUDENT: "ABHINAV KUMAR",
@@ -6439,6 +6749,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 311,
     ADMISSION: "CPS-IV-2887-2023",
     ROLL: 4,
     NAME_OF_STUDENT: "ADITYA KUMAR",
@@ -6460,6 +6771,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 312,
     ADMISSION: "CPS-IV-2984-2023",
     ROLL: 5,
     NAME_OF_STUDENT: "AHAM KUMAR",
@@ -6481,6 +6793,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 6,
   },
   {
+    id: 313,
     ADMISSION: "CPS-V- 3163-2024",
     ROLL: 6,
     NAME_OF_STUDENT: "AKASH KUMAR",
@@ -6502,6 +6815,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 314,
     ROLL: 7,
     NAME_OF_STUDENT: "ANAMIKA YADAV",
     FATHER_NAME: "AJAY KUMAR",
@@ -6519,6 +6833,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 8,
   },
   {
+    id: 315,
     ADMISSION: "CPS-III-2661-2022",
     ROLL: 8,
     NAME_OF_STUDENT: "ANSH KUMAR ",
@@ -6540,6 +6855,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 316,
     ADMISSION: "CPS-I -1955-2020",
     ROLL: 9,
     NAME_OF_STUDENT: "ANSH RAJ ",
@@ -6561,6 +6877,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 317,
     ADMISSION: "CPS-II-2274-2021",
     ROLL: 10,
     NAME_OF_STUDENT: "ANSH RAJ SINGH",
@@ -6582,6 +6899,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 318,
     ADMISSION: "CPS-V- 3314-2024",
     ROLL: 11,
     NAME_OF_STUDENT: "ARADHYA SHARMA",
@@ -6603,6 +6921,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 319,
     ADMISSION: "CPS-V- 3312-2024",
     ROLL: 12,
     NAME_OF_STUDENT: "ASHISH KUMAR",
@@ -6624,6 +6943,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 320,
     ADMISSION: "CPS-V- 3307-2024",
     ROLL: 13,
     NAME_OF_STUDENT: "DEEPA KUMARI SINGH",
@@ -6645,6 +6965,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 321,
     ADMISSION: "CPS-V- 3129-2024",
     ROLL: 14,
     NAME_OF_STUDENT: "MAHI KUMARI",
@@ -6666,6 +6987,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 322,
     ADMISSION: "CPS-VI- 3170-2024",
     ROLL: 15,
     NAME_OF_STUDENT: "NIKHIL RAJ",
@@ -6687,6 +7009,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 323,
     ADMISSION: "CPS-V- 3149-2024",
     ROLL: 16,
     NAME_OF_STUDENT: "PRINCE KUMAR",
@@ -6708,6 +7031,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 324,
     ADMISSION: "CPS-V- 3225-2024",
     ROLL: 17,
     NAME_OF_STUDENT: "PRIYANKA KUMARI",
@@ -6729,6 +7053,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 325,
     ADMISSION: "CPS-V- 3275-",
     ROLL: 18,
     NAME_OF_STUDENT: "RISHABH RAJ",
@@ -6750,6 +7075,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 326,
     ADMISSION: "CPS-V- 3147-2024",
     ROLL: 19,
     NAME_OF_STUDENT: "SAPTRISHI NAMO",
@@ -6771,6 +7097,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 327,
     ADMISSION: "CPS-V- 3331-2024",
     ROLL: 20,
     NAME_OF_STUDENT: "UJJWAL KUMAR",
@@ -6792,6 +7119,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 328,
     ADMISSION: "CPS-V- 3113-2023",
     ROLL: 1,
     NAME_OF_STUDENT: "ABHAY KUMAR",
@@ -6811,6 +7139,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 329,
     ADMISSION: "CPS-II - 1928-2020",
     ROLL: 2,
     NAME_OF_STUDENT: "ADARSH KUMAR",
@@ -6831,6 +7160,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 330,
     ADMISSION: "CPS-III -2221-2021",
     ROLL: 3,
     NAME_OF_STUDENT: "ADITYA RAJ",
@@ -6852,6 +7182,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 9,
   },
   {
+    id: 331,
     ADMISSION: "CPS-IV- 2515-2022",
     ROLL: 4,
     NAME_OF_STUDENT: "AKANKSHA RAY",
@@ -6873,6 +7204,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 332,
     ADMISSION: "CPS-IV- 2735-2022",
     ROLL: 5,
     NAME_OF_STUDENT: "AMAN KUMAR",
@@ -6894,6 +7226,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 333,
     ADMISSION: "CPS-V- 2992-2023",
     ROLL: 6,
     NAME_OF_STUDENT: "ANCHAL RAJ",
@@ -6915,6 +7248,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 334,
     ADMISSION: "CPS-IV- 2489-2022",
     ROLL: 7,
     NAME_OF_STUDENT: "ANISHA BHARTI",
@@ -6936,6 +7270,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 335,
     ADMISSION: "CPS-IV- 2708-2022",
     ROLL: 8,
     NAME_OF_STUDENT: "ANKIT MANDAL",
@@ -6957,6 +7292,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 336,
     ADMISSION: "CPS- PREP- 1173-2018",
     ROLL: 9,
     NAME_OF_STUDENT: "ANKUSH KUMAR",
@@ -6978,6 +7314,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 337,
     ADMISSION: "CPS-III - 2440-2021",
     ROLL: 10,
     NAME_OF_STUDENT: "ANSHU KUMAR",
@@ -6998,6 +7335,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 338,
     ADMISSION: "CPS-V- 2969-2023",
     ROLL: 11,
     NAME_OF_STUDENT: "ARYAN RAJ",
@@ -7018,6 +7356,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 339,
     ADMISSION: "CPS-II - 1933-2020",
     ROLL: 12,
     NAME_OF_STUDENT: "BABLI KUMARI",
@@ -7039,6 +7378,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 340,
     ADMISSION: "CPS-VI- 3185-2024",
     ROLL: 13,
     NAME_OF_STUDENT: "CHHOTI KUMARI",
@@ -7060,6 +7400,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 341,
     ADMISSION: "CPS-I- 1428-2019",
     ROLL: 14,
     NAME_OF_STUDENT: "GAUTAM KUMAR",
@@ -7080,6 +7421,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 9,
   },
   {
+    id: 342,
     ADMISSION: "CPS-V- 3044-2023",
     ROLL: 15,
     NAME_OF_STUDENT: "HARSHIT KUMAR",
@@ -7101,6 +7443,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 343,
     ADMISSION: "CPS-IV- 2705-2022",
     ROLL: 16,
     NAME_OF_STUDENT: "HARSHITA CHAURASIA",
@@ -7122,6 +7465,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 344,
     ADMISSION: "CPS-III - 2405-2021",
     ROLL: 17,
     NAME_OF_STUDENT: "HIMANSHU RAJ",
@@ -7143,6 +7487,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 345,
     ADMISSION: "CPS-I - 1561-2019",
     ROLL: 18,
     NAME_OF_STUDENT: "JANVI KUMARI",
@@ -7164,6 +7509,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 346,
     ADMISSION: "CPS-V- 2979-2023",
     ROLL: 19,
     NAME_OF_STUDENT: "KANHIYA KUMAR",
@@ -7185,6 +7531,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 347,
     ADMISSION: "CPS-I- 1513-2019",
     ROLL: 20,
     NAME_OF_STUDENT: "MANISH KUMAR-I",
@@ -7206,6 +7553,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 348,
     ADMISSION: "CPS-III - 2412-2021",
     ROLL: 21,
     NAME_OF_STUDENT: "MANISH KUMAR-II",
@@ -7227,6 +7575,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 349,
     ADMISSION: "CPS-III - 2187-2021",
     ROLL: 22,
     NAME_OF_STUDENT: "MANU KUMARI",
@@ -7248,6 +7597,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 350,
     ADMISSION: "CPS-I - 1560-2019",
     ROLL: 23,
     NAME_OF_STUDENT: "MUNNA KUMAR",
@@ -7269,6 +7619,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 351,
     ADMISSION: "CPS-V- 2940-2023",
     ROLL: 24,
     NAME_OF_STUDENT: "PRINCE KUMAR",
@@ -7290,6 +7641,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 352,
     ADMISSION: "CPS-VI- 3218-2024",
     ROLL: 25,
     NAME_OF_STUDENT: "RAJNISH SHARMA",
@@ -7311,6 +7663,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 6,
   },
   {
+    id: 353,
     ADMISSION: "CPS-PREP- 1207-2018",
     ROLL: 26,
     NAME_OF_STUDENT: "RANVEER SINGH",
@@ -7332,6 +7685,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 354,
     ADMISSION: "CPS-IV- 2603-2022",
     ROLL: 27,
     NAME_OF_STUDENT: "RAUNAK KUMAR",
@@ -7353,6 +7707,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 8,
   },
   {
+    id: 355,
     ADMISSION: "CPS- PREP- 1270-2018",
     ROLL: 28,
     NAME_OF_STUDENT: "RIMJHIM KUMARI",
@@ -7374,6 +7729,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 356,
     ADMISSION: "CPS-III - 2208-2021",
     ROLL: 29,
     NAME_OF_STUDENT: "RISHU RAJ",
@@ -7394,6 +7750,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 357,
     ADMISSION: "CPS-V- 2991-2023",
     ROLL: 30,
     NAME_OF_STUDENT: "ROHIT RAJ",
@@ -7415,6 +7772,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 358,
     ADMISSION: "CPS-VI- 3128-2024",
     ROLL: 31,
     NAME_OF_STUDENT: "SAGAR KUMAR",
@@ -7436,6 +7794,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 359,
     ADMISSION: "CPS-II - 1941-2020",
     ROLL: 32,
     NAME_OF_STUDENT: "SANJANA RAJ",
@@ -7457,6 +7816,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 360,
     ADMISSION: "CPS-III - 2413-2021",
     ROLL: 33,
     NAME_OF_STUDENT: "SATYAM KUMAR",
@@ -7477,6 +7837,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 361,
     ADMISSION: "CPS-II - 1946-2020",
     ROLL: 34,
     NAME_OF_STUDENT: "SHUSHANT KUMAR",
@@ -7498,6 +7859,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 9,
   },
   {
+    id: 362,
     ADMISSION: "CPS-IV- 2483-2022",
     ROLL: 35,
     NAME_OF_STUDENT: "SIFANAZ PRAWEEN",
@@ -7519,6 +7881,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 363,
     ADMISSION: "CPS-V- 2881-2023",
     ROLL: 36,
     NAME_OF_STUDENT: "SOUMYA SUMRAGI",
@@ -7539,6 +7902,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 364,
     ADMISSION: "CPS-VI- 3215-2024",
     ROLL: 37,
     NAME_OF_STUDENT: "SUPRIYA KUMARI",
@@ -7560,6 +7924,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 365,
     ADMISSION: "CPS-II - 1949-2020",
     ROLL: 38,
     NAME_OF_STUDENT: "VICKY KUMAR",
@@ -7580,6 +7945,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 366,
     ADMISSION: "CPS-IV- 2593-2022",
     ROLL: 39,
     NAME_OF_STUDENT: "VIJYA KARAN",
@@ -7601,6 +7967,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 367,
     ADMISSION: "CPS-IV- 2739-2022",
     ROLL: 40,
     NAME_OF_STUDENT: "VIVEK KUMAR",
@@ -7621,6 +7988,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 368,
     ADMISSION: "CPS-II - 1931-2020",
     ROLL: 1,
     NAME_OF_STUDENT: "ANURAG KUMAR",
@@ -7642,6 +8010,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 369,
     ADMISSION: "CPS-VI- 3213-2024",
     ROLL: 2,
     NAME_OF_STUDENT: "ARADHAYA ROY",
@@ -7663,6 +8032,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 370,
     ROLL: 3,
     NAME_OF_STUDENT: "ARADHYA SHARMA",
     FATHER_NAME: "KAUSHLENDRA KUMAR",
@@ -7680,6 +8050,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 371,
     ADMISSION: "CPS-IV- 2598-2022",
     ROLL: 4,
     NAME_OF_STUDENT: "ARYAN KUMAR ",
@@ -7701,6 +8072,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 372,
     ADMISSION: "CPS-VI- 3226-2024",
     ROLL: 5,
     NAME_OF_STUDENT: "AYUSH KUMAR",
@@ -7722,6 +8094,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 6,
   },
   {
+    id: 373,
     ADMISSION: "CPS-VI- 3138-2024",
     ROLL: 6,
     NAME_OF_STUDENT: "KHUSHI KUMARI",
@@ -7742,6 +8115,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 374,
     ADMISSION: "CPS-VI- 3315-2024",
     ROLL: 7,
     NAME_OF_STUDENT: "PIYUSH KUMAR",
@@ -7762,6 +8136,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 8,
   },
   {
+    id: 375,
     ADMISSION: "CPS-V- 2878-2023",
     ROLL: 8,
     NAME_OF_STUDENT: "PRIYA KUMARI",
@@ -7783,6 +8158,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 376,
     ADMISSION: "CPS-V- 2931-2023",
     ROLL: 9,
     NAME_OF_STUDENT: "PRIYA RANI",
@@ -7804,6 +8180,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 377,
     ADMISSION: "CPS-VI- 3321-2024",
     ROLL: 10,
     NAME_OF_STUDENT: "RISHU RAJ",
@@ -7824,6 +8201,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 378,
     ADMISSION: "CPS-VI- 3212-2024",
     ROLL: 11,
     NAME_OF_STUDENT: "RITIK KUMAR",
@@ -7845,6 +8223,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 379,
     ADMISSION: "CPS-II - 1940-2020",
     ROLL: 12,
     NAME_OF_STUDENT: "SAHIL KUMAR",
@@ -7865,6 +8244,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 9,
   },
   {
+    id: 380,
     ADMISSION: "CPS-I - 1564-2019",
     ROLL: 13,
     NAME_OF_STUDENT: "VARSHA KUMARI",
@@ -7886,6 +8266,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 381,
     ADMISSION: "CPS-VI- 3155-2024",
     ROLL: 14,
     NAME_OF_STUDENT: "VIKASH KUMAR",
@@ -7906,6 +8287,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 382,
     ADMISSION: "CPS-VI- 2925-2023",
     ROLL: 1,
     NAME_OF_STUDENT: "ADITI KUMARI",
@@ -7927,6 +8309,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 383,
     ADMISSION: "CPS-III- 1906-2020",
     ROLL: 2,
     NAME_OF_STUDENT: "ADITYA RAJ",
@@ -7948,6 +8331,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 384,
     ADMISSION: "CPS-IV- 2239-2021",
     ROLL: 3,
     NAME_OF_STUDENT: "AKANKSHA KUMARI",
@@ -7968,6 +8352,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 385,
     ADMISSION: "CPS-II- 1528-2019",
     ROLL: 4,
     NAME_OF_STUDENT: "AMAN KUMAR",
@@ -7988,6 +8373,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 386,
     ADMISSION: "CPS-V- 2522-2022",
     ROLL: 5,
     NAME_OF_STUDENT: "AMANDEEP KUMAR",
@@ -8009,6 +8395,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 387,
     ADMISSION: "CPS-III - 1907-2020",
     ROLL: 6,
     NAME_OF_STUDENT: "AMIT KUMAR",
@@ -8029,6 +8416,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 388,
     ADMISSION: "CPS-III - 1908-2020",
     ROLL: 7,
     NAME_OF_STUDENT: "AMRIT RAJ GUPTA",
@@ -8049,6 +8437,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 389,
     ADMISSION: "CPS-III - 1909-2020",
     ROLL: 8,
     NAME_OF_STUDENT: "ANIKET KUMAR",
@@ -8069,6 +8458,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 390,
     ADMISSION: "CPS-V- 2620-2022",
     ROLL: 9,
     NAME_OF_STUDENT: "ANISH KUMAR",
@@ -8090,6 +8480,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 6,
   },
   {
+    id: 391,
     ADMISSION: "CPS-I - 1257-2018",
     ROLL: 10,
     NAME_OF_STUDENT: "ANJANA KUMARI",
@@ -8111,6 +8502,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 392,
     ADMISSION: "CPS-III - 1912-2020",
     ROLL: 11,
     NAME_OF_STUDENT: "ARPITA KUMARI",
@@ -8132,6 +8524,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 8,
   },
   {
+    id: 393,
     ADMISSION: "CPS-VI- 2558-2022",
     ROLL: 12,
     NAME_OF_STUDENT: "ARYAN RAJ",
@@ -8153,6 +8546,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 394,
     ADMISSION: "CPS-VI - 2937-2023",
     ROLL: 13,
     NAME_OF_STUDENT: "DHANJIT KUMAR",
@@ -8174,6 +8568,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 395,
     ADMISSION: "CPS-V- 2665-2022",
     ROLL: 14,
     NAME_OF_STUDENT: "JAIKI KUMAR",
@@ -8195,6 +8590,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 396,
     ADMISSION: "CPS-IV- 2377-2021",
     ROLL: 15,
     NAME_OF_STUDENT: "KRITIKA KUMARI",
@@ -8215,6 +8611,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 397,
     ADMISSION: "CPS-V- 2562-2022",
     ROLL: 16,
     NAME_OF_STUDENT: "LUCKY KUMAR",
@@ -8236,6 +8633,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 398,
     ADMISSION: "CPS-V- 2667-2022",
     ROLL: 17,
     NAME_OF_STUDENT: "MANISH KUMAR",
@@ -8256,6 +8654,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 399,
     ADMISSION: "CPS-I - 1174-2018",
     ROLL: 18,
     NAME_OF_STUDENT: "NAVNIT KUMAR",
@@ -8277,6 +8676,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 400,
     ADMISSION: "CPS-III - 1915-2020",
     ROLL: 19,
     NAME_OF_STUDENT: "NIRMAL KUMAR",
@@ -8297,6 +8697,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 401,
     ADMISSION: "CPS-VI- 2993-2023",
     ROLL: 20,
     NAME_OF_STUDENT: "NISHANT RAJ",
@@ -8318,6 +8719,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 402,
     ADMISSION: "CPS-VII- 3216-2024",
     ROLL: 21,
     NAME_OF_STUDENT: "PRINCE KUMAR",
@@ -8338,6 +8740,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 403,
     ADMISSION: "CPS-VI- 2922-2023",
     ROLL: 22,
     NAME_OF_STUDENT: "RISHABH RAJ",
@@ -8359,6 +8762,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 404,
     ADMISSION: "CPS-VI- 2973-2023",
     ROLL: 23,
     NAME_OF_STUDENT: "ROHIT KUMAR",
@@ -8380,6 +8784,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 405,
     ADMISSION: "CPS-V- 2574-2022",
     ROLL: 24,
     NAME_OF_STUDENT: "SARAS KUMAR",
@@ -8401,6 +8806,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 406,
     ADMISSION: "CPS-IV- 2235-2021",
     ROLL: 25,
     NAME_OF_STUDENT: "SAURABH KUMAR",
@@ -8421,6 +8827,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 9,
   },
   {
+    id: 407,
     ADMISSION: "CPS-VI- 2977-2023",
     ROLL: 26,
     NAME_OF_STUDENT: "SHASHI RAJ",
@@ -8442,6 +8849,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 408,
     ADMISSION: "CPS-III - 1922-2020",
     ROLL: 27,
     NAME_OF_STUDENT: "SHAURYA KUMAR",
@@ -8463,6 +8871,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 409,
     ADMISSION: "CPS-VI- 2980-2023",
     ROLL: 28,
     NAME_OF_STUDENT: "SHAYAR RAJ",
@@ -8484,6 +8893,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 410,
     ADMISSION: "CPS-V- 2550-2022",
     ROLL: 29,
     NAME_OF_STUDENT: "SHIVAM RAJ",
@@ -8505,6 +8915,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 411,
     ADMISSION: "CPS-III-1923-2020",
     ROLL: 30,
     NAME_OF_STUDENT: "SHIVANI KUMARI ",
@@ -8526,6 +8937,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 412,
     ADMISSION: "CPS-II - 1717-2019",
     ROLL: 31,
     NAME_OF_STUDENT: "SHIVANI KUMARI ",
@@ -8547,6 +8959,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 413,
     ADMISSION: "CPS-VI- 2918-2023",
     ROLL: 32,
     NAME_OF_STUDENT: "SHYAMLI KUMARI",
@@ -8568,6 +8981,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 414,
     ADMISSION: "CPS-V- 2621-20222",
     ROLL: 33,
     NAME_OF_STUDENT: "SOMYA KUMARI",
@@ -8589,6 +9003,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 415,
     ADMISSION: "CPS-IV- 2396-2021",
     ROLL: 34,
     NAME_OF_STUDENT: "SONU KUMAR",
@@ -8609,6 +9024,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 416,
     ADMISSION: "CPS-III - 1925-2020",
     ROLL: 35,
     NAME_OF_STUDENT: "SUHANI KUMARI",
@@ -8629,6 +9045,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 417,
     ADMISSION: "CPS-III - 1926-2020",
     ROLL: 36,
     NAME_OF_STUDENT: "SUJEET KUMAR",
@@ -8649,6 +9066,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 6,
   },
   {
+    id: 418,
     ADMISSION: "CPS-VII- 3297-2024",
     ROLL: 37,
     NAME_OF_STUDENT: "SUJIT KUMAR",
@@ -8670,6 +9088,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 419,
     ADMISSION: "CPS-III- 1738-2020",
     ROLL: 38,
     NAME_OF_STUDENT: "SWEETY KUMARI",
@@ -8691,6 +9110,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 8,
   },
   {
+    id: 420,
     ADMISSION: "CPS-IV- 2186-2021",
     ROLL: 39,
     NAME_OF_STUDENT: "TANNU KUMARI",
@@ -8711,6 +9131,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 9,
   },
   {
+    id: 421,
     ADMISSION: "CPS-VI- 2972-2023",
     ROLL: 40,
     NAME_OF_STUDENT: "VIKRAM KUMAR",
@@ -8731,6 +9152,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 422,
     ADMISSION: "CPS-VII- 3274-2024",
     ROLL: 1,
     NAME_OF_STUDENT: "ABHAY RAJ",
@@ -8752,6 +9174,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 423,
     ADMISSION: "CPS-VI- 3114-2023",
     ROLL: 2,
     NAME_OF_STUDENT: "ABHISHEK KUMAR",
@@ -8771,6 +9194,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 424,
     ADMISSION: "CPS-VII- 3203-2024",
     ROLL: 3,
     NAME_OF_STUDENT: "ADITYA KUMAR",
@@ -8792,6 +9216,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 425,
     ADMISSION: "CPS-VII- 3127-2024",
     ROLL: 4,
     NAME_OF_STUDENT: "AKSHAT KUMAR",
@@ -8813,6 +9238,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 426,
     ADMISSION: "CPS-VII- 3171-2024",
     ROLL: 5,
     NAME_OF_STUDENT: "AYUSHI KUMARI",
@@ -8834,6 +9260,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 427,
     ADMISSION: "CPS-III - 1912-2020",
     ROLL: 6,
     NAME_OF_STUDENT: "BANTY KUMAR",
@@ -8855,6 +9282,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 428,
     ADMISSION: "CPS-VII- 3191-2024",
     ROLL: 7,
     NAME_OF_STUDENT: "KOMAL KUMARI",
@@ -8876,6 +9304,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 429,
     ADMISSION: "CPS-V- 2576-2022",
     ROLL: 8,
     NAME_OF_STUDENT: "KRITIKA KUMARI",
@@ -8897,6 +9326,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 430,
     ADMISSION: "CPS-VI- 2921-2023",
     ROLL: 9,
     NAME_OF_STUDENT: "KUMKUM KUMARI",
@@ -8918,6 +9348,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 431,
     ADMISSION: "CPS-VII- 3230-2024",
     ROLL: 10,
     NAME_OF_STUDENT: "MANISHA KUMARI",
@@ -8939,6 +9370,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 6,
   },
   {
+    id: 432,
     ADMISSION: "CPS-VII- 3119-2024",
     ROLL: 11,
     NAME_OF_STUDENT: "NAITIK KUMAR",
@@ -8960,6 +9392,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 433,
     ADMISSION: "CPS-VII- 3195-2024",
     ROLL: 12,
     NAME_OF_STUDENT: "NIKHIL KUMAR",
@@ -8981,6 +9414,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 8,
   },
   {
+    id: 434,
     ADMISSION: "CPS-VII- 3143-2024",
     ROLL: 13,
     NAME_OF_STUDENT: "PRINCE KUMAR",
@@ -9001,6 +9435,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 435,
     ADMISSION: "CPS-VII- 3202-2024",
     ROLL: 14,
     NAME_OF_STUDENT: "RADHIKA KUMARI",
@@ -9021,6 +9456,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 436,
     ADMISSION: "CPS-VI- 3001-2023",
     ROLL: 15,
     NAME_OF_STUDENT: "RIYA KUMARI",
@@ -9042,6 +9478,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 437,
     ADMISSION: "CPS-VII- 3184-2024",
     ROLL: 16,
     NAME_OF_STUDENT: "RIYA KUMARI",
@@ -9063,6 +9500,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 438,
     ADMISSION: "CPS-VI- 2947-2023",
     ROLL: 17,
     NAME_OF_STUDENT: "SAUMYA KUMARI",
@@ -9084,6 +9522,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 439,
     ADMISSION: "CPS-VII- 3217-2024",
     ROLL: 18,
     NAME_OF_STUDENT: "SIKANDAR KUMAR",
@@ -9105,6 +9544,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 440,
     ADMISSION: "CPS-VII- 3161-2024",
     ROLL: 19,
     NAME_OF_STUDENT: "SRIDHI VANI",
@@ -9126,6 +9566,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 441,
     ADMISSION: "CPS-VII- 3193-2024",
     ROLL: 20,
     NAME_OF_STUDENT: "SURYA KUMAR",
@@ -9146,6 +9587,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 442,
     ADMISSION: "CPS-V- 2723-2022",
     ROLL: 21,
     NAME_OF_STUDENT: "TANAVI KUMARI",
@@ -9167,6 +9609,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 443,
     ADMISSION: "CPS-VII- 3145-2024",
     ROLL: 22,
     NAME_OF_STUDENT: "VICKY KUMAR",
@@ -9187,6 +9630,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 444,
     ADMISSION: "CPS-VII- 3332-2024",
     ROLL: 23,
     NAME_OF_STUDENT: "ARYAN RAJ",
@@ -9208,6 +9652,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 445,
     ADMISSION: "CPS-VII- 3300-2024",
     ROLL: 24,
     NAME_OF_STUDENT: "KRISH RAJ",
@@ -9229,6 +9674,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 446,
     ADMISSION: "CPS-VII- 3337-2024",
     ROLL: 25,
     NAME_OF_STUDENT: "ABHAY ANAND",
@@ -9250,6 +9696,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 447,
     ADMISSION: "CPS-VI- 2669-2022",
     ROLL: 1,
     NAME_OF_STUDENT: "ADITYA KUMAR",
@@ -9271,6 +9718,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 448,
     ADMISSION: "CPS-VII- 2934-2023",
     ROLL: 2,
     NAME_OF_STUDENT: "ADITYA KUMAR",
@@ -9292,6 +9740,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 449,
     ADMISSION: "CPS-VII- 2987-2023",
     ROLL: 3,
     NAME_OF_STUDENT: "ADITYA RAJ",
@@ -9313,6 +9762,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 9,
   },
   {
+    id: 450,
     ADMISSION: "CPS-VIII- 3133-2024",
     ROLL: 4,
     NAME_OF_STUDENT: "AISHWARYA ANAND",
@@ -9334,6 +9784,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 451,
     ADMISSION: "CPS-IV- 1885-2020",
     ROLL: 5,
     NAME_OF_STUDENT: "AMAN RAJ",
@@ -9355,6 +9806,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 452,
     ADMISSION: "CPS-VII- 2926-2023",
     ROLL: 6,
     NAME_OF_STUDENT: "AMIT KUMAR",
@@ -9376,6 +9828,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 453,
     ADMISSION: "CPS-VII- 2939-2023",
     ROLL: 7,
     NAME_OF_STUDENT: "ANAMIKA KUMARI",
@@ -9397,6 +9850,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 454,
     ADMISSION: "CPS-IV- 1889-2020",
     ROLL: 8,
     NAME_OF_STUDENT: "ANNU KUMARI",
@@ -9418,6 +9872,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 455,
     ADMISSION: "CPS-VII- 2938-2023",
     ROLL: 9,
     NAME_OF_STUDENT: "AYUSH KUMAR",
@@ -9439,6 +9894,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 456,
     ADMISSION: "CPS-VII- 2906-2023",
     ROLL: 10,
     NAME_OF_STUDENT: "DEEPTI RANJAN",
@@ -9460,6 +9916,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 457,
     ADMISSION: "CPS-V- 2204-2021",
     ROLL: 11,
     NAME_OF_STUDENT: "DIMPLE KUMARI",
@@ -9481,6 +9938,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 458,
     ADMISSION: "CPS-VII- 2886-2023",
     ROLL: 12,
     NAME_OF_STUDENT: "GAUTAM KUMAR",
@@ -9502,6 +9960,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 459,
     ADMISSION: "CPS-VI- 2858-2022",
     ROLL: 13,
     NAME_OF_STUDENT: "HANNI RANJAN",
@@ -9523,6 +9982,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 460,
     ADMISSION: "CPS-VI- 2857-2022",
     ROLL: 14,
     NAME_OF_STUDENT: "HARSH RANJAN",
@@ -9544,6 +10004,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 6,
   },
   {
+    id: 461,
     ADMISSION: "CPS-VI- 2670-2022",
     ROLL: 15,
     NAME_OF_STUDENT: "HARSHIKA KUMARI",
@@ -9565,6 +10026,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 462,
     ADMISSION: "CPS-VII- 2880-2023",
     ROLL: 16,
     NAME_OF_STUDENT: "HIMANSHU SINGH",
@@ -9586,6 +10048,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 8,
   },
   {
+    id: 463,
     ADMISSION: "CPS- II-  1475 -2019",
     ROLL: 17,
     NAME_OF_STUDENT: "KAJAL KUMARI",
@@ -9607,6 +10070,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 464,
     ADMISSION: "CPS-VI- 2671-2022",
     ROLL: 18,
     NAME_OF_STUDENT: "KUMAR RUDRANSH SINHA",
@@ -9628,6 +10092,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 465,
     ADMISSION: "CPS-VI- 2486-2022",
     ROLL: 19,
     NAME_OF_STUDENT: "KUNDAN KUMAR ",
@@ -9649,6 +10114,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 466,
     ADMISSION: "CPS-VI- 2482-2022",
     ROLL: 20,
     NAME_OF_STUDENT: "MD. OWAIS KHAN",
@@ -9670,6 +10136,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 467,
     ADMISSION: "CPS-IV- 1895 -2020",
     ROLL: 21,
     NAME_OF_STUDENT: "MONU KUMAR",
@@ -9690,6 +10157,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 468,
     ADMISSION: "CPS-V-  2191 -2021",
     ROLL: 22,
     NAME_OF_STUDENT: "NAITIK RAJ",
@@ -9710,6 +10178,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 469,
     ADMISSION: "CPS-V- 2215-2021",
     ROLL: 23,
     NAME_OF_STUDENT: "NAWYA KUMARI",
@@ -9730,6 +10199,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 470,
     ADMISSION: "CPS-VII- 2942-2023",
     ROLL: 24,
     NAME_OF_STUDENT: "PRINCE KUMAR",
@@ -9751,6 +10221,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 471,
     ADMISSION: "CPS-V- 2406-2021",
     ROLL: 25,
     NAME_OF_STUDENT: "PRIYANSHU RAJ",
@@ -9772,6 +10243,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 472,
     ADMISSION: "CPS-VI- 2507-2022",
     ROLL: 26,
     NAME_OF_STUDENT: "RACHANA KUMARI",
@@ -9792,6 +10264,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 473,
     ADMISSION: "CPS-III- 1578-2019",
     ROLL: 27,
     NAME_OF_STUDENT: "RADHA YADAV",
@@ -9813,6 +10286,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 474,
     ADMISSION: "CPS-VIII- 2905-2023",
     ROLL: 28,
     NAME_OF_STUDENT: "RAJANI RANJAN",
@@ -9834,6 +10308,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 475,
     ADMISSION: "CPS-VII- 2898-2023",
     ROLL: 29,
     NAME_OF_STUDENT: "RAJIV RANJAN",
@@ -9855,6 +10330,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 476,
     ADMISSION: "CPS-III- 1427-2019",
     ROLL: 30,
     NAME_OF_STUDENT: "RAUNAK KUMAR ",
@@ -9876,6 +10352,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 477,
     ADMISSION: "CPS-IV- 1904-2020",
     ROLL: 31,
     NAME_OF_STUDENT: "RAUNAK KUMAR ",
@@ -9897,6 +10374,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 478,
     ADMISSION: "CPS-VII- 2965-2023",
     ROLL: 32,
     NAME_OF_STUDENT: "RITIKA SINGH",
@@ -9918,6 +10396,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 479,
     ADMISSION: "CPS-III- 1454-2019",
     ROLL: 33,
     NAME_OF_STUDENT: "ROHIT KUMAR",
@@ -9939,6 +10418,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 480,
     ADMISSION: "CPS-V- 2435-2021",
     ROLL: 34,
     NAME_OF_STUDENT: "SHILPI ROY",
@@ -9960,6 +10440,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 481,
     ADMISSION: "CPS-VI- 2719-2022",
     ROLL: 35,
     NAME_OF_STUDENT: "SHIRISHTI KUMARI",
@@ -9981,6 +10462,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 482,
     ADMISSION: "CPS-VI- 2746-2022",
     ROLL: 36,
     NAME_OF_STUDENT: "SHRISHTI PRIYA",
@@ -10002,6 +10484,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 483,
     ADMISSION: "CPS-V- 2267-2021",
     ROLL: 37,
     NAME_OF_STUDENT: "SIDDHARTH KUMAR",
@@ -10023,6 +10506,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 484,
     ADMISSION: "CPS-IV- 1901-2020",
     ROLL: 38,
     NAME_OF_STUDENT: "SMRITI KUMARI",
@@ -10043,6 +10527,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 485,
     ADMISSION: "CPS-VII- 2897-2023",
     ROLL: 39,
     NAME_OF_STUDENT: "SUHANI KUMARI",
@@ -10064,6 +10549,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 486,
     ADMISSION: "CPS-VI- 2496-2022",
     ROLL: 40,
     NAME_OF_STUDENT: "SURYANSHU RANJAN",
@@ -10085,6 +10571,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 6,
   },
   {
+    id: 487,
     ADMISSION: "CPS-VIII- 3284-2024",
     ROLL: 1,
     NAME_OF_STUDENT: "AARAV RAJ",
@@ -10106,6 +10593,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 488,
     ADMISSION: "CPS-VIII- 3256-2024",
     ROLL: 2,
     NAME_OF_STUDENT: "AASHI RAI",
@@ -10126,6 +10614,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 8,
   },
   {
+    id: 489,
     ADMISSION: "CPS-VIII- 3236-2024",
     ROLL: 3,
     NAME_OF_STUDENT: "AASHISH KUMAR",
@@ -10147,6 +10636,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 490,
     ADMISSION: "CPS-VIII- 3264-2024",
     ROLL: 4,
     NAME_OF_STUDENT: "ABHIJEET RANJAN",
@@ -10168,6 +10658,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 491,
     ADMISSION: "CPS-VIII- 3241-2024",
     ROLL: 5,
     NAME_OF_STUDENT: "ABHILASHA KUMARI",
@@ -10189,6 +10680,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 492,
     ADMISSION: "CPS-VIII- 3246-2024",
     ROLL: 6,
     NAME_OF_STUDENT: "AKANSHA SHREE",
@@ -10210,6 +10702,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 493,
     ADMISSION: "CPS-VIII- 3288-2024",
     ROLL: 7,
     NAME_OF_STUDENT: "ALOK KUMAR",
@@ -10231,6 +10724,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 494,
     ADMISSION: "CPS-VIII- 3247-2024",
     ROLL: 8,
     NAME_OF_STUDENT: "AMBIKA KUMARI",
@@ -10252,6 +10746,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 495,
     ADMISSION: "CPS-VIII- 3263-2024",
     ROLL: 9,
     NAME_OF_STUDENT: "AMIT RAJ",
@@ -10272,6 +10767,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 496,
     ADMISSION: "CPS-VIII- 3296-2024",
     ROLL: 10,
     NAME_OF_STUDENT: "ANKIT KUMAR",
@@ -10293,6 +10789,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 497,
     ADMISSION: "CPS-VIII- 3243-2024",
     ROLL: 11,
     NAME_OF_STUDENT: "ANSHU SINGH",
@@ -10314,6 +10811,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 6,
   },
   {
+    id: 498,
     ADMISSION: "CPS-VIII- 3260-2024",
     ROLL: 12,
     NAME_OF_STUDENT: "ANUKALAP SINGH",
@@ -10335,6 +10833,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 499,
     ADMISSION: "CPS-VIII- 3249-2024",
     ROLL: 13,
     NAME_OF_STUDENT: "ANUSHKA RAJ",
@@ -10356,6 +10855,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 8,
   },
   {
+    id: 500,
     ADMISSION: "CPS-VIII- 3250-2024",
     ROLL: 14,
     NAME_OF_STUDENT: "ARPANA KUMARI",
@@ -10377,6 +10877,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 501,
     ADMISSION: "CPS-VIII- 3237-2024",
     ROLL: 15,
     NAME_OF_STUDENT: "ARYAN KUMAR SINGH",
@@ -10398,6 +10899,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 502,
     ADMISSION: "CPS-VIII- 3240-2024",
     ROLL: 16,
     NAME_OF_STUDENT: "AVINAV KASHYAP",
@@ -10419,6 +10921,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 503,
     ADMISSION: "CPS-VIII- 3269-2024",
     ROLL: 17,
     NAME_OF_STUDENT: "AYUSH RAJ",
@@ -10440,6 +10943,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 504,
     ADMISSION: "CPS-VIII- 3258-2024",
     ROLL: 18,
     NAME_OF_STUDENT: "AYUSHI KUMARI",
@@ -10460,6 +10964,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 505,
     ADMISSION: "CPS-VIII- 3255-2024",
     ROLL: 19,
     NAME_OF_STUDENT: "BEAUTY KUMARI",
@@ -10481,6 +10986,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 506,
     ADMISSION: "CPS-VIII- 3265-2024",
     ROLL: 20,
     NAME_OF_STUDENT: "GAURAV YADAV",
@@ -10502,6 +11008,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 507,
     ADMISSION: "CPS-VIII- 3234-2024",
     ROLL: 21,
     NAME_OF_STUDENT: "HARSH RAJ",
@@ -10523,6 +11030,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 508,
     ADMISSION: "CPS-VIII- 3283-2024",
     ROLL: 22,
     NAME_OF_STUDENT: "HARSHIT KUMAR",
@@ -10544,6 +11052,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 6,
   },
   {
+    id: 509,
     ADMISSION: "CPS-VIII- 3266-2024",
     ROLL: 23,
     NAME_OF_STUDENT: "HIMANSHU KUMAR",
@@ -10565,6 +11074,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 510,
     ADMISSION: "CPS-VIII- 3259-2024",
     ROLL: 24,
     NAME_OF_STUDENT: "JYOTI KUMARI",
@@ -10586,6 +11096,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 8,
   },
   {
+    id: 511,
     ADMISSION: "CPS-VIII- 3235-2024",
     ROLL: 25,
     NAME_OF_STUDENT: "KARTIK SINGH",
@@ -10607,6 +11118,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 512,
     ADMISSION: "CPS-VIII- 3267-2024",
     ROLL: 26,
     NAME_OF_STUDENT: "KESHAV KUMAR",
@@ -10628,6 +11140,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 513,
     ADMISSION: "CPS-VIII- 3238-2024",
     ROLL: 27,
     NAME_OF_STUDENT: "LUCKY YADAV",
@@ -10649,6 +11162,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 514,
     ADMISSION: "CPS-VIII- 3271-2024",
     ROLL: 28,
     NAME_OF_STUDENT: "MANJEET YADAV",
@@ -10670,6 +11184,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 515,
     ADMISSION: "CPS-VIII- 3270-2024",
     ROLL: 29,
     NAME_OF_STUDENT: "NANDANI PRIYA",
@@ -10691,6 +11206,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 516,
     ADMISSION: "CPS-VIII- 3245-2024",
     ROLL: 30,
     NAME_OF_STUDENT: "NICKY VERMA",
@@ -10712,6 +11228,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 517,
     ADMISSION: "CPS-VIII- 3261-2024",
     ROLL: 31,
     NAME_OF_STUDENT: "RAJVANSH KUMAR",
@@ -10733,6 +11250,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 518,
     ADMISSION: "CPS-VIII- 3233-2024",
     ROLL: 32,
     NAME_OF_STUDENT: "RAUSHAN RAJ",
@@ -10754,6 +11272,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 519,
     ADMISSION: "CPS-VIII- 3254-2024",
     ROLL: 33,
     NAME_OF_STUDENT: "RIYA KUMARI",
@@ -10775,6 +11294,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 6,
   },
   {
+    id: 520,
     ADMISSION: "CPS-VIII- 3232-2024",
     ROLL: 34,
     NAME_OF_STUDENT: "SAKSHAM KUMAR",
@@ -10796,6 +11316,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 521,
     ADMISSION: "CPS-VIII- 3252-2024",
     ROLL: 35,
     NAME_OF_STUDENT: "SANJANA SINGH",
@@ -10817,6 +11338,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 8,
   },
   {
+    id: 522,
     ADMISSION: "CPS-VIII- 3268-2024",
     ROLL: 36,
     NAME_OF_STUDENT: "SHIVAM KUMAR",
@@ -10838,6 +11360,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 523,
     ADMISSION: "CPS-VIII- 3285-2024",
     ROLL: 37,
     NAME_OF_STUDENT: "SHIVAM KUMAR",
@@ -10859,6 +11382,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 524,
     ADMISSION: "CPS-VIII- 3239-2024",
     ROLL: 38,
     NAME_OF_STUDENT: "SHIVAM RAJ",
@@ -10880,6 +11404,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 525,
     ADMISSION: "CPS-VIII- 3253-2024",
     ROLL: 39,
     NAME_OF_STUDENT: "SHREYA KUMARI",
@@ -10901,6 +11426,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 526,
     ADMISSION: "CPS-VIII- 3244-2024",
     ROLL: 40,
     NAME_OF_STUDENT: "SIMRAN RAJ",
@@ -10922,6 +11448,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 527,
     ADMISSION: "CPS-VII- 2998-2023",
     ROLL: 1,
     NAME_OF_STUDENT: "AASTHA NAYAN",
@@ -10943,6 +11470,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 528,
     ADMISSION: "CPS-VIII- 3320-2024",
     ROLL: 2,
     NAME_OF_STUDENT: "ABHIYANSHU RAJ",
@@ -10964,6 +11492,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 529,
     ADMISSION: "CPS-VIII- 3318-2024",
     ROLL: 3,
     NAME_OF_STUDENT: "AMAN KUMAR",
@@ -10984,6 +11513,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 530,
     ADMISSION: "CPS-IV- 1886-2020",
     ROLL: 4,
     NAME_OF_STUDENT: "AMIT KUMAR",
@@ -11005,6 +11535,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 531,
     ADMISSION: "CPS-VIII-3319-2024",
     ROLL: 5,
     NAME_OF_STUDENT: "AMRIT RAJ",
@@ -11026,6 +11557,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 532,
     ADMISSION: "CPS-VIII- 3188-2024",
     ROLL: 6,
     NAME_OF_STUDENT: "AMRITI ROI",
@@ -11047,6 +11579,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 533,
     ADMISSION: "CPS-VIII- 3192-2024",
     ROLL: 7,
     NAME_OF_STUDENT: "ANISH KUMAR",
@@ -11068,6 +11601,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 534,
     ADMISSION: "CPS-VIII- 3316-2024",
     ROLL: 8,
     NAME_OF_STUDENT: "ANKIT KUMAR",
@@ -11089,6 +11623,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 6,
   },
   {
+    id: 535,
     ADMISSION: "CPS-VIII- 3262-2024",
     ROLL: 9,
     NAME_OF_STUDENT: "ANKIT KUMAR",
@@ -11110,6 +11645,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 536,
     ADMISSION: "CPS-VIII- 3159-2024",
     ROLL: 10,
     NAME_OF_STUDENT: "ARADHYA ARYAN",
@@ -11131,6 +11667,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 8,
   },
   {
+    id: 537,
     ADMISSION: "CPS-VIII- 2990-2023",
     ROLL: 11,
     NAME_OF_STUDENT: "AYUSH SINGH",
@@ -11152,6 +11689,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 538,
     ADMISSION: "CPS-VIII- 3309-2024",
     ROLL: 12,
     NAME_OF_STUDENT: "CHANDANI KUMARI",
@@ -11173,6 +11711,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 539,
     ADMISSION: "CPS-VIII- 3146-2024",
     ROLL: 13,
     NAME_OF_STUDENT: "DIVYA KUMARI",
@@ -11194,6 +11733,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 540,
     ADMISSION: "CPS-VIII- 3124-2024",
     ROLL: 14,
     NAME_OF_STUDENT: "GAURAV KUMAR SHARMA",
@@ -11215,6 +11755,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 541,
     ADMISSION: "CPS-VIII- 3201-2024",
     ROLL: 15,
     NAME_OF_STUDENT: "KITTU KUMARI",
@@ -11236,6 +11777,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 542,
     ADMISSION: "CPS-VIII-3197-2024",
     ROLL: 16,
     NAME_OF_STUDENT: "NAGENDRA KUMAR",
@@ -11257,6 +11799,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 543,
     ADMISSION: "CPS-VIII- 3183-2024",
     ROLL: 17,
     NAME_OF_STUDENT: "PRINCE KUMAR",
@@ -11278,6 +11821,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 544,
     ADMISSION: "CPS-VIII- 3311-2024",
     ROLL: 18,
     NAME_OF_STUDENT: "PUJA KUMARI",
@@ -11299,6 +11843,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 545,
     ADMISSION: "CPS-VIII- 3287-2024",
     ROLL: 19,
     NAME_OF_STUDENT: "RAVI SAGAR",
@@ -11320,6 +11865,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 6,
   },
   {
+    id: 546,
     ADMISSION: "CPS-VIII- 3140-2024",
     ROLL: 20,
     NAME_OF_STUDENT: "SACHIN SINGH",
@@ -11341,6 +11887,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 547,
     ADMISSION: "CPS-VIII- 3164-2024",
     ROLL: 21,
     NAME_OF_STUDENT: "SATISH KUMAR",
@@ -11362,6 +11909,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 8,
   },
   {
+    id: 548,
     ADMISSION: "CPS-VIII- 3310-2024",
     ROLL: 22,
     NAME_OF_STUDENT: "SATYAM KUMAR",
@@ -11383,6 +11931,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 549,
     ADMISSION: "CPS-VIII- 3242-2024",
     ROLL: 23,
     NAME_OF_STUDENT: "SNEHA BHARTI",
@@ -11404,6 +11953,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 550,
     ADMISSION: "CPS-VIII- 3222-2024",
     ROLL: 24,
     NAME_OF_STUDENT: "SUMIT KUMAR",
@@ -11425,6 +11975,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 551,
     ADMISSION: "CPS-VIII- 3248-2024",
     ROLL: 25,
     NAME_OF_STUDENT: "SUPRIYA PANDEY",
@@ -11446,6 +11997,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 552,
     ADMISSION: "CPS-VIII- 3251-2024",
     ROLL: 26,
     NAME_OF_STUDENT: "SWEETY KUMARI",
@@ -11467,6 +12019,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 553,
     ADMISSION: "CPS-VIII- 3257-2024",
     ROLL: 27,
     NAME_OF_STUDENT: "TANISHKA MISHRA",
@@ -11488,6 +12041,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 554,
     ADMISSION: "CPS-VIII- 3189-2024",
     ROLL: 28,
     NAME_OF_STUDENT: "TANYA KUMARI",
@@ -11509,6 +12063,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 555,
     ADMISSION: "CPS-VIII- 3286-2024",
     ROLL: 29,
     NAME_OF_STUDENT: "UTKARSH KUMAR",
@@ -11530,6 +12085,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 556,
     ADMISSION: "CPS-VIII- 3308-2024",
     ROLL: 30,
     NAME_OF_STUDENT: "VIDYA KUMARI",
@@ -11551,6 +12107,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 557,
     ADMISSION: "CPS-VIII- 3289-2024",
     ROLL: 31,
     NAME_OF_STUDENT: "VIVEK KUMAR",
@@ -11572,6 +12129,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 558,
     ADMISSION: "CPS-VIII- 3322-2024",
     ROLL: 32,
     NAME_OF_STUDENT: "AKSHAT SHUBHAM",
@@ -11592,6 +12150,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 559,
     ADMISSION: "CPS-VIII- 3325-2024",
     ROLL: 33,
     NAME_OF_STUDENT: "SHILPI KUMARI",
@@ -11613,6 +12172,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 560,
     ADMISSION: "CPS-VIII- 3329-2024",
     ROLL: 34,
     NAME_OF_STUDENT: "DIVYANSHU KUMAR",
@@ -11634,6 +12194,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 561,
     ADMISSION: "CPS-VIII- 3330-2024",
     ROLL: 35,
     NAME_OF_STUDENT: "MOHIT KUMAR",
@@ -11655,6 +12216,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 562,
     ADMISSION: "CPS-VIII- 3335-2024",
     ROLL: 36,
     NAME_OF_STUDENT: "PALLAVI KUMARI",
@@ -11676,6 +12238,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 563,
     ADMISSION: "CPS-VIII- 3336-2024",
     ROLL: 37,
     NAME_OF_STUDENT: "RITESH YADAV",
@@ -11697,6 +12260,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 564,
     ADMISSION: "CPS- V- 1750 -2020",
     ROLL: 1,
     NAME_OF_STUDENT: "AAISHA KUMARI",
@@ -11718,6 +12282,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 6,
   },
   {
+    id: 565,
     ADMISSION: "CPS-VI- 2248-2021",
     ROLL: 2,
     NAME_OF_STUDENT: "ABHISHEK KUMAR",
@@ -11739,6 +12304,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 566,
     ADMISSION: "CPS-VII- 2675-2022",
     ROLL: 3,
     NAME_OF_STUDENT: "AISHA FIRDAUS",
@@ -11760,6 +12326,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 8,
   },
   {
+    id: 567,
     ADMISSION: "CPS-VI- 2436-2021",
     ROLL: 4,
     NAME_OF_STUDENT: "AMAN ARYAN",
@@ -11780,6 +12347,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 568,
     ADMISSION: "CPS-III- 1181-2018",
     ROLL: 5,
     NAME_OF_STUDENT: "AMIT KUMAR",
@@ -11801,6 +12369,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 569,
     ADMISSION: "CPS- VIII- 3007-2023",
     ROLL: 6,
     NAME_OF_STUDENT: "ANGEL KUMARI",
@@ -11822,6 +12391,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 570,
     ADMISSION: "CPS-VII- 2566-2022",
     ROLL: 7,
     NAME_OF_STUDENT: "ANKIT KUMAR",
@@ -11843,6 +12413,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 571,
     ADMISSION: "CPS-VIII- 3013-2023",
     ROLL: 8,
     NAME_OF_STUDENT: "Anugya Mishra",
@@ -11864,6 +12435,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 572,
     ADMISSION: "CPS-V- 1856-2020",
     ROLL: 9,
     NAME_OF_STUDENT: "ANUKALP KUMAR",
@@ -11885,6 +12457,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 573,
     ADMISSION: "CPS-VII- 2606-2022",
     ROLL: 10,
     NAME_OF_STUDENT: "GAURAV KUMAR",
@@ -11905,6 +12478,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 574,
     ADMISSION: "CPS-V- 1859-2020",
     ROLL: 11,
     NAME_OF_STUDENT: "GURU PYARE",
@@ -11926,6 +12500,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 575,
     ADMISSION: "CPS-VI- 2439-2021",
     ROLL: 12,
     NAME_OF_STUDENT: "HARSH KUMAR",
@@ -11947,6 +12522,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 576,
     ADMISSION: "CPS-IV- 1480-2019",
     ROLL: 13,
     NAME_OF_STUDENT: "HARSH RAJ",
@@ -11968,6 +12544,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 577,
     ADMISSION: "CPS-III- 1256-2018",
     ROLL: 14,
     NAME_OF_STUDENT: "HIMANSHU KUMAR",
@@ -11989,6 +12566,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 578,
     ADMISSION: "CPS-V - 1862-2020",
     ROLL: 15,
     NAME_OF_STUDENT: "KHUSHI KUMAR",
@@ -12010,6 +12588,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 579,
     ADMISSION: "CPS-VII- 2566-2022",
     ROLL: 16,
     NAME_OF_STUDENT: "MAHI KUMARI",
@@ -12031,6 +12610,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 580,
     ADMISSION: "CPS-VII- 2564-2022",
     ROLL: 17,
     NAME_OF_STUDENT: "MANTU KUMAR",
@@ -12052,6 +12632,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 581,
     ADMISSION: "CPS-V - 1863-2020",
     ROLL: 18,
     NAME_OF_STUDENT: "MONIKA KUMARI",
@@ -12073,6 +12654,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 582,
     ADMISSION: "CPS-VI- 1270-2021",
     ROLL: 19,
     NAME_OF_STUDENT: "MONIKA YADAV",
@@ -12094,6 +12676,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 583,
     ADMISSION: "CPS- VIII- 3035-2023",
     ROLL: 20,
     NAME_OF_STUDENT: "PRERNA BHARADWAJ",
@@ -12115,6 +12698,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 6,
   },
   {
+    id: 584,
     ADMISSION: "CPS-III- 1183-2018",
     ROLL: 21,
     NAME_OF_STUDENT: "PRINCE KR. II",
@@ -12136,6 +12720,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 585,
     ADMISSION: "CPS-V- 1878-2020",
     ROLL: 22,
     NAME_OF_STUDENT: "PRINCE KUMAR",
@@ -12157,6 +12742,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 8,
   },
   {
+    id: 586,
     ADMISSION: "CPS-VI- 2269-2021",
     ROLL: 23,
     NAME_OF_STUDENT: "PRIYA YADAV",
@@ -12178,6 +12764,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 587,
     ADMISSION: "CPS-IV- 1518-2019",
     ROLL: 24,
     NAME_OF_STUDENT: "RAGINI SINGH",
@@ -12198,6 +12785,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 588,
     ADMISSION: "CPS-VI- 2097-2021",
     ROLL: 25,
     NAME_OF_STUDENT: "RITIK KUMAR",
@@ -12219,6 +12807,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 589,
     ADMISSION: "CPS-VI- 2193-2021",
     ROLL: 26,
     NAME_OF_STUDENT: "ROHIT RAJ",
@@ -12240,6 +12829,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 590,
     ADMISSION: "CPS-VII- 2695-2022",
     ROLL: 27,
     NAME_OF_STUDENT: "ROUSHAN KUMAR",
@@ -12261,6 +12851,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 591,
     ADMISSION: "CPS-VII- 2508-2022",
     ROLL: 28,
     NAME_OF_STUDENT: "SAGAR KUMAR",
@@ -12282,6 +12873,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 592,
     ADMISSION: "CPS-VII- 2677-2022",
     ROLL: 29,
     NAME_OF_STUDENT: "SAHIL KUMAR",
@@ -12303,6 +12895,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 593,
     ADMISSION: "CPS-VII- 2487-2022",
     ROLL: 30,
     NAME_OF_STUDENT: "SHREYA SHARMA",
@@ -12324,6 +12917,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 594,
     ADMISSION: "CPS-VII- 2675-2022",
     ROLL: 31,
     NAME_OF_STUDENT: "SHRUTI SHARAM",
@@ -12345,6 +12939,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 595,
     ADMISSION: "CPS- VIII- 3039-2023",
     ROLL: 32,
     NAME_OF_STUDENT: "SIMRAN KUMARI",
@@ -12366,6 +12961,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 596,
     ADMISSION: "CPS-VII- 2694-2022",
     ROLL: 33,
     NAME_OF_STUDENT: "SONU KUMAR",
@@ -12387,6 +12983,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 6,
   },
   {
+    id: 597,
     ADMISSION: "CPS- VIII- 3038-2023",
     ROLL: 34,
     NAME_OF_STUDENT: "SONALI KUMARI",
@@ -12408,6 +13005,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 598,
     ADMISSION: "CPS- VIII- 3040-2023",
     ROLL: 35,
     NAME_OF_STUDENT: "SONAM KUMARI",
@@ -12429,6 +13027,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 8,
   },
   {
+    id: 599,
     ADMISSION: "CPS-VII- 2568-2022",
     ROLL: 36,
     NAME_OF_STUDENT: "SWEETY SHARMA",
@@ -12450,6 +13049,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 600,
     ADMISSION: "CPS- V- 1876 -2020",
     ROLL: 37,
     NAME_OF_STUDENT: "TANNU KUMARI",
@@ -12471,6 +13071,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 601,
     ADMISSION: "CPS-VII- 2715-2022",
     ROLL: 38,
     NAME_OF_STUDENT: "UJJWAL KUMAR",
@@ -12492,6 +13093,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 602,
     ADMISSION: "CPS- V- 1877 -2020",
     ROLL: 39,
     NAME_OF_STUDENT: "UMANG KUMAR",
@@ -12513,6 +13115,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 603,
     ADMISSION: "CPS-VI- 2425-2021",
     ROLL: 40,
     NAME_OF_STUDENT: "VAIBHAV SINGH",
@@ -12534,6 +13137,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 604,
     ADMISSION: "CPS-VIII- 3009-2023",
     ROLL: 1,
     NAME_OF_STUDENT: "ADITI RAJ",
@@ -12555,6 +13159,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 605,
     ADMISSION: "CPS-VIII- 3010-2023",
     ROLL: 2,
     NAME_OF_STUDENT: "Alen Mendis",
@@ -12576,6 +13181,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 606,
     ADMISSION: "CPS-VIII- 3015-2023",
     ROLL: 3,
     NAME_OF_STUDENT: "Alina Malik",
@@ -12597,6 +13203,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 607,
     ADMISSION: "CPS-VIII- 3016-2023",
     ROLL: 4,
     NAME_OF_STUDENT: "Aniket raj",
@@ -12618,6 +13225,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 608,
     ADMISSION: "CPS-VIII- 3012-2023",
     ROLL: 5,
     NAME_OF_STUDENT: "Ankit Kumar",
@@ -12639,6 +13247,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 609,
     ADMISSION: "CPS-VIII- 3008-2023",
     ROLL: 6,
     NAME_OF_STUDENT: "Ankit Kumar-1",
@@ -12660,6 +13269,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 610,
     ADMISSION: "CPS-VIII- 3006-2023",
     ROLL: 7,
     NAME_OF_STUDENT: "Aryan raj",
@@ -12681,6 +13291,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 611,
     ADMISSION: "CPS-VIII- 3014-2023",
     ROLL: 8,
     NAME_OF_STUDENT: "Aryan Sharma",
@@ -12702,6 +13313,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 612,
     ADMISSION: "CPS-VIII- 3005-2023",
     ROLL: 9,
     NAME_OF_STUDENT: "Asif Mallik",
@@ -12723,6 +13335,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 6,
   },
   {
+    id: 613,
     ADMISSION: "CPS-VIII- 3025-2023",
     ROLL: 10,
     NAME_OF_STUDENT: "Atharv",
@@ -12743,6 +13356,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 614,
     ADMISSION: "CPS-VIII- 3003-2023",
     ROLL: 11,
     NAME_OF_STUDENT: "Avinash Kumar",
@@ -12764,6 +13378,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 8,
   },
   {
+    id: 615,
     ADMISSION: "CPS-VIII- 3018-2023",
     ROLL: 12,
     NAME_OF_STUDENT: "Bikku Kumar",
@@ -12785,6 +13400,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 616,
     ADMISSION: "CPS-V- 1860-2020",
     ROLL: 13,
     NAME_OF_STUDENT: "JAGRITI KUMARI",
@@ -12806,6 +13422,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 617,
     ADMISSION: "CPS-VIII- 3048-2023",
     ROLL: 14,
     NAME_OF_STUDENT: "Juli Kumari",
@@ -12826,6 +13443,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 618,
     ADMISSION: "CPS-VIII- 3038-2023",
     ROLL: 15,
     NAME_OF_STUDENT: "Karan Kumar",
@@ -12847,6 +13465,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 619,
     ADMISSION: "CPS-VII- 2672-2022",
     ROLL: 16,
     NAME_OF_STUDENT: "KARAN SHARMA",
@@ -12868,6 +13487,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 620,
     ADMISSION: "CPS-VIII- 3032-2023",
     ROLL: 17,
     NAME_OF_STUDENT: "Khushi Kumari",
@@ -12889,6 +13509,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 621,
     ADMISSION: "CPS-VIII- 3019-2023",
     ROLL: 18,
     NAME_OF_STUDENT: "Mayank Kumar",
@@ -12910,6 +13531,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 622,
     ADMISSION: "CPS-VIII- 3034-2023",
     ROLL: 19,
     NAME_OF_STUDENT: "Megha Kumari",
@@ -12931,6 +13553,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 623,
     ADMISSION: "CPS-VII- 2554-2022",
     ROLL: 20,
     NAME_OF_STUDENT: "MUSKAN KUMARI",
@@ -12952,6 +13575,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 624,
     ADMISSION: "CPS-VII- 2588-2022",
     ROLL: 21,
     NAME_OF_STUDENT: "NAIRA SINGH",
@@ -12973,6 +13597,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 625,
     ADMISSION: "CPS-V - 1864-2020",
     ROLL: 22,
     NAME_OF_STUDENT: "NIKETA MISHRA ",
@@ -12994,6 +13619,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 626,
     ADMISSION: "CPS-V- 1865-2020",
     ROLL: 23,
     NAME_OF_STUDENT: "NITISH KUMAR",
@@ -13015,6 +13641,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 627,
     ADMISSION: "CPS-V- 1867-2020",
     ROLL: 24,
     NAME_OF_STUDENT: "PRINCE KR. I",
@@ -13036,6 +13663,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 628,
     ADMISSION: "CPS-VII- 2520-2022",
     ROLL: 25,
     NAME_OF_STUDENT: "PUSHPA KUMARI",
@@ -13057,6 +13685,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 629,
     ADMISSION: "CPS-VIII- 3035-2023",
     ROLL: 26,
     NAME_OF_STUDENT: "Rahat Kumari",
@@ -13078,6 +13707,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 630,
     ADMISSION: "CPS-IV- 1898-2020",
     ROLL: 27,
     NAME_OF_STUDENT: "RASHMI KUMARI",
@@ -13099,6 +13729,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 631,
     ADMISSION: "CPS-VIII- 3022-2023",
     ROLL: 28,
     NAME_OF_STUDENT: "Riya Kumari",
@@ -13120,6 +13751,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 632,
     ADMISSION: "CPS-VIII- 3030-2023",
     ROLL: 29,
     NAME_OF_STUDENT: "ROHIT KUMAR ",
@@ -13141,6 +13773,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 633,
     ADMISSION: "CPS-VII- 2544-2022",
     ROLL: 30,
     NAME_OF_STUDENT: "ROUNAK KUMAR",
@@ -13162,6 +13795,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 634,
     ADMISSION: "CPS- VIII- 3037-2023",
     ROLL: 31,
     NAME_OF_STUDENT: "SONALI KUMARI",
@@ -13183,6 +13817,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 635,
     ADMISSION: "CPS- VIII- 3042-2023",
     ROLL: 32,
     NAME_OF_STUDENT: "UJJAWAL KUMAR",
@@ -13204,6 +13839,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 636,
     ADMISSION: "CPS-I-1039-2016",
     ROLL: 33,
     NAME_OF_STUDENT: "SONU KUMAR",
@@ -13225,6 +13861,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 637,
     ADMISSION: "CPS- VIII- 3028-2023",
     ROLL: 34,
     NAME_OF_STUDENT: "SUDHANSHU KUMAR",
@@ -13246,6 +13883,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 638,
     ADMISSION: "CPS- VIII-      3089-2023",
     ROLL: 35,
     NAME_OF_STUDENT: "SUNDAR KUMAR",
@@ -13265,6 +13903,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 639,
     ADMISSION: "CPS-IX- 3290-2024",
     ROLL: 36,
     NAME_OF_STUDENT: "SWATI KUMARI",
@@ -13286,6 +13925,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 640,
     ADMISSION: "CPS- VIII- 3043-2023",
     ROLL: 37,
     NAME_OF_STUDENT: "VAIBHAV KUMAR",
@@ -13307,6 +13947,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 641,
     ADMISSION: "CPS- VII- 2674-2022",
     ROLL: 38,
     NAME_OF_STUDENT: "VISHAL KUMAR",
@@ -13328,6 +13969,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 642,
     ADMISSION: "CPS-IX- 3198-2024",
     ROLL: 39,
     NAME_OF_STUDENT: "VISHAL YADAV",
@@ -13349,6 +13991,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 6,
   },
   {
+    id: 643,
     ADMISSION: "CPS-IX- 3293-2024",
     ROLL: 40,
     NAME_OF_STUDENT: "YASHASVI SINGH",
@@ -13370,6 +14013,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 644,
     ADMISSION: "CPS-IX- 3299-2024",
     ROLL: 1,
     NAME_OF_STUDENT: "AARUSH KAPSIME",
@@ -13391,6 +14035,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 8,
   },
   {
+    id: 645,
     ADMISSION: "CPS- VII- 2509-2022",
     ROLL: 2,
     NAME_OF_STUDENT: "ABHINASH KUMAR",
@@ -13411,6 +14056,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 646,
     ADMISSION: "CPS-IX- 3182-2024",
     ROLL: 3,
     NAME_OF_STUDENT: "ALISHA KUMARI",
@@ -13432,6 +14078,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 647,
     ADMISSION: "CPS- VIII- 2957-2023",
     ROLL: 4,
     NAME_OF_STUDENT: "AMAN KUMAR",
@@ -13453,6 +14100,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 648,
     ADMISSION: "CPS-IX- 3169-2024",
     ROLL: 5,
     NAME_OF_STUDENT: "AMAN KUMAR",
@@ -13474,6 +14122,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 649,
     ADMISSION: "CPS- VIII- 2919-2023",
     ROLL: 6,
     NAME_OF_STUDENT: "ANUJ BISWAKARMA",
@@ -13495,6 +14144,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 650,
     ADMISSION: "CPS- VIII- 3026-2023",
     ROLL: 7,
     NAME_OF_STUDENT: "GAGAN KR. VERMA",
@@ -13516,6 +14166,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 651,
     ADMISSION: "CPS-VIII- 2734-2024",
     ROLL: 8,
     NAME_OF_STUDENT: "JYOTI KUMARI",
@@ -13537,6 +14188,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 652,
     ADMISSION: "CPS- VII- 2739-2022",
     ROLL: 9,
     NAME_OF_STUDENT: "KUMARI KASHISH",
@@ -13558,6 +14210,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 653,
     ADMISSION: "CPS-V - 1749-2020",
     ROLL: 10,
     NAME_OF_STUDENT: "MONU KUMAR",
@@ -13579,6 +14232,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 654,
     ADMISSION: "CPS- VIII- 2896-2023",
     ROLL: 11,
     NAME_OF_STUDENT: "NIDHI YADAV",
@@ -13600,6 +14254,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 655,
     ADMISSION: "CPS-IX-3186-2024",
     ROLL: 12,
     NAME_OF_STUDENT: "NIKITA KUMARI",
@@ -13621,6 +14276,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 6,
   },
   {
+    id: 656,
     ADMISSION: "CPS-IX- 3292-2024",
     ROLL: 13,
     NAME_OF_STUDENT: "NITISH KUMAR",
@@ -13642,6 +14298,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 657,
     ADMISSION: "CPS-IX- 3317-2024",
     ROLL: 14,
     NAME_OF_STUDENT: "PRINCE RAJ",
@@ -13663,6 +14320,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 658,
     ADMISSION: "CPS- VIII- 3020-2023",
     ROLL: 15,
     NAME_OF_STUDENT: "PRITHVI RAJ",
@@ -13684,6 +14342,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 659,
     ADMISSION: "CPS-IX- 3276-2024",
     ROLL: 16,
     NAME_OF_STUDENT: "RAJ SHREE",
@@ -13705,6 +14364,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 660,
     ADMISSION: "CPS- VIII- 3021-2023",
     ROLL: 17,
     NAME_OF_STUDENT: "RAJVEER KUMAR",
@@ -13726,6 +14386,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 661,
     ADMISSION: "CPS- VIII- 2994-2023",
     ROLL: 18,
     NAME_OF_STUDENT: "RAUNAK KUMAR",
@@ -13747,6 +14408,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 662,
     ADMISSION: "CPS- VIII- 2722-2023",
     ROLL: 19,
     NAME_OF_STUDENT: "RITU RAJ",
@@ -13768,6 +14430,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 663,
     ADMISSION: "CPS- VIII- 2908-2023",
     ROLL: 20,
     NAME_OF_STUDENT: "ROUSHAN KUMAR",
@@ -13789,6 +14452,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 664,
     ADMISSION: "CPS- VIII- 3027-2023",
     ROLL: 21,
     NAME_OF_STUDENT: "RUDRA KR. KASHYAP",
@@ -13810,6 +14474,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 665,
     ADMISSION: "CPS-IV- 1458 -2019",
     ROLL: 22,
     NAME_OF_STUDENT: "SAHEB KUMAR",
@@ -13831,6 +14496,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 666,
     ADMISSION: "CPS-IX- 3291-2024",
     ROLL: 23,
     NAME_OF_STUDENT: "SAHIL KUMAR YADVENDU",
@@ -13852,6 +14518,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 667,
     ADMISSION: "CPS- VII- 2481-2022",
     ROLL: 24,
     NAME_OF_STUDENT: "SAIMA PERWEEN",
@@ -13873,6 +14540,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 668,
     ADMISSION: "CPS- VIII- 3036-2023",
     ROLL: 25,
     NAME_OF_STUDENT: "SAMEER KUMAR",
@@ -13894,6 +14562,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 669,
     ADMISSION: "CPS- VIII- 2920-2023",
     ROLL: 26,
     NAME_OF_STUDENT: "SANJANA KUMARI",
@@ -13915,6 +14584,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 6,
   },
   {
+    id: 670,
     ADMISSION: "CPS- VIII- 3029-2023",
     ROLL: 27,
     NAME_OF_STUDENT: "SHIVAM KUMAR",
@@ -13936,6 +14606,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 671,
     ADMISSION: "CPS-IX- 3323-2024",
     ROLL: 28,
     NAME_OF_STUDENT: "AKRITI ARYA",
@@ -13956,6 +14627,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 8,
   },
   {
+    id: 672,
     ADMISSION: "CPS-VII- 2565-2024",
     ROLL: 29,
     NAME_OF_STUDENT: "SUPRIYA KUMARI",
@@ -13977,6 +14649,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 673,
     ADMISSION: "CPS-VII- 2564-2024",
     ROLL: 30,
     NAME_OF_STUDENT: "ARYAN KUMAR",
@@ -13998,6 +14671,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 674,
     ADMISSION: "CPS-VI- 2036 -2020 ",
     ROLL: 1,
     NAME_OF_STUDENT: "ABHIMANYU KUMAR",
@@ -14019,6 +14693,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 675,
     ADMISSION: "CPS-VI- 2065-2020 ",
     ROLL: 2,
     NAME_OF_STUDENT: "ADITYA KR. ",
@@ -14040,6 +14715,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 676,
     ADMISSION: "CPS-VII- 2188 -2020 ",
     ROLL: 3,
     NAME_OF_STUDENT: "AMAN KUMAR - III",
@@ -14061,6 +14737,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 677,
     ADMISSION: "CPS-VIII- 2646-2022 ",
     ROLL: 4,
     NAME_OF_STUDENT: "AMAN KUMAR -I",
@@ -14082,6 +14759,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 678,
     ADMISSION: "CPS-VI- 1838 -2020 ",
     ROLL: 5,
     NAME_OF_STUDENT: "AMAN KUMAR -II",
@@ -14103,6 +14781,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 679,
     ADMISSION: "CPS-VIII- 2594-2022 ",
     ROLL: 6,
     NAME_OF_STUDENT: "ANISHA KUMARI",
@@ -14124,6 +14803,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 680,
     ADMISSION: "CPS-IV- 1255-2018 ",
     ROLL: 7,
     NAME_OF_STUDENT: "ANJALI KUMARI",
@@ -14145,6 +14825,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 681,
     ADMISSION: "CPS-VIII- 2632-2022 ",
     ROLL: 8,
     NAME_OF_STUDENT: "ANKIT KUMAR -II",
@@ -14166,6 +14847,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 682,
     ADMISSION: "CPS-I- 907-2015 ",
     ROLL: 9,
     NAME_OF_STUDENT: "ANSHU KUMARI",
@@ -14187,6 +14869,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 6,
   },
   {
+    id: 683,
     ADMISSION: "CPS-VIII- 2542-2022 ",
     ROLL: 10,
     NAME_OF_STUDENT: "DAKSH MEHTA",
@@ -14208,6 +14891,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 684,
     ADMISSION: "CPS-IX- 2967-2023 ",
     ROLL: 11,
     NAME_OF_STUDENT: "DEEPIKA  BHARTI",
@@ -14229,6 +14913,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 685,
     ADMISSION: "CPS-IX- 2877-2023 ",
     ROLL: 12,
     NAME_OF_STUDENT: "ANIQUA ALMAS",
@@ -14250,6 +14935,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 686,
     ADMISSION: "CPS-IX- 2997-2023",
     ROLL: 13,
     NAME_OF_STUDENT: "GAURAV KUMAR ",
@@ -14271,6 +14957,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 687,
     ADMISSION: "CPS-VIII- 2640-2022 ",
     ROLL: 14,
     NAME_OF_STUDENT: "HARSH KUMAR",
@@ -14292,6 +14979,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 688,
     ADMISSION: "CPS-VIII- 2503-2022 ",
     ROLL: 15,
     NAME_OF_STUDENT: "HIMANSHU KUMAR",
@@ -14313,6 +15001,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 689,
     ADMISSION: "CPS-VI- 1842 -2020 ",
     ROLL: 16,
     NAME_OF_STUDENT: "JIYA KUMARI",
@@ -14334,6 +15023,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 690,
     ADMISSION: "CPS-IV- 1208-2018 ",
     ROLL: 17,
     NAME_OF_STUDENT: "KRISH KUMAR",
@@ -14355,6 +15045,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 691,
     ADMISSION: "CPS-IX- 3051-2023",
     ROLL: 18,
     NAME_OF_STUDENT: "KUMKUM KUMARI",
@@ -14376,6 +15067,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 692,
     ADMISSION: "CPS-VI- 1856-2020 ",
     ROLL: 19,
     NAME_OF_STUDENT: "MAHI SINGH",
@@ -14396,6 +15088,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 693,
     ADMISSION: "CPS-VII- 2259-2021 ",
     ROLL: 20,
     NAME_OF_STUDENT: "MANSHI KUMARI",
@@ -14417,6 +15110,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 694,
     ADMISSION: "CPS-IX- 2974-2023 ",
     ROLL: 21,
     NAME_OF_STUDENT: "NITISH KUMAR",
@@ -14437,6 +15131,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 695,
     ADMISSION: "CPS-VIII- 2644-2022 ",
     ROLL: 22,
     NAME_OF_STUDENT: "PRIYANSHU MISHRA",
@@ -14458,6 +15153,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 696,
     ADMISSION: "CPS-VIII- 2629-2022 ",
     ROLL: 23,
     NAME_OF_STUDENT: "RANVEER  SINGH",
@@ -14479,6 +15175,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 6,
   },
   {
+    id: 697,
     ADMISSION: "CPS-VIII- 2626-2022 ",
     ROLL: 24,
     NAME_OF_STUDENT: "RAVI KUMAR - I",
@@ -14500,6 +15197,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 698,
     ADMISSION: "CPS-VIII- 2639-2022 ",
     ROLL: 25,
     NAME_OF_STUDENT: "RAVI KUMAR - II",
@@ -14521,6 +15219,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 8,
   },
   {
+    id: 699,
     ADMISSION: "CPS-04- 1236-2018",
     ROLL: 26,
     NAME_OF_STUDENT: "RISHI RAJ ARYA",
@@ -14542,6 +15241,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 700,
     ADMISSION: "CPS-VIII- 2642-2022 ",
     ROLL: 27,
     NAME_OF_STUDENT: "ROHIT KUMAR",
@@ -14563,6 +15263,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 701,
     ADMISSION: "CPS-VII- 2185 -2021 ",
     ROLL: 28,
     NAME_OF_STUDENT: "ROUNAK KUMAR",
@@ -14584,6 +15285,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 702,
     ADMISSION: "CPS-VI- 1847-2020 ",
     ROLL: 29,
     NAME_OF_STUDENT: "SAGAR KUMAR",
@@ -14605,6 +15307,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 703,
     ADMISSION: "CPS-V- 1433-2019 ",
     ROLL: 30,
     NAME_OF_STUDENT: "SANGAM KUMAR",
@@ -14626,6 +15329,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 704,
     ADMISSION: "CPS-VI- 1849-2020 ",
     ROLL: 31,
     NAME_OF_STUDENT: "SHREYA SINHA",
@@ -14647,6 +15351,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 705,
     ADMISSION: "CPS-VII- 2416-2021 ",
     ROLL: 32,
     NAME_OF_STUDENT: "SHRISTY KUMARI",
@@ -14668,6 +15373,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 706,
     ADMISSION: "CPS-IV- 1251-2018 ",
     ROLL: 33,
     NAME_OF_STUDENT: "SNIGDHA KUMARI",
@@ -14689,6 +15395,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 707,
     ADMISSION: "CPS-VIII- 2585-2022 ",
     ROLL: 34,
     NAME_OF_STUDENT: "SUBHAM KUMAR - I",
@@ -14710,6 +15417,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 708,
     ADMISSION: "CPS-VII- 2250-2021 ",
     ROLL: 35,
     NAME_OF_STUDENT: "SUBHAM KUMAR - II",
@@ -14731,6 +15439,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 709,
     ADMISSION: "CPS-VII- 2731-2021 ",
     ROLL: 36,
     NAME_OF_STUDENT: "SUMIT KUMAR",
@@ -14752,6 +15461,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 6,
   },
   {
+    id: 710,
     ADMISSION: "CPS-VII- 2438-2021 ",
     ROLL: 37,
     NAME_OF_STUDENT: "SUPRIYA SUMAN",
@@ -14773,6 +15483,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 711,
     ADMISSION: "CPS-VII- 2437-2021 ",
     ROLL: 38,
     NAME_OF_STUDENT: "UMA PASWAN",
@@ -14794,6 +15505,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 712,
     ADMISSION: "CPS-VI-1861-2020 ",
     ROLL: 39,
     NAME_OF_STUDENT: "VIBHAV RASHMI",
@@ -14815,6 +15527,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 713,
     ADMISSION: "CPS-VI- 1853-2020 ",
     ROLL: 40,
     NAME_OF_STUDENT: "VIKASH KUMAR",
@@ -14836,6 +15549,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 714,
     ADMISSION: "CPS-VI- 1839 -2020 ",
     ROLL: 1,
     NAME_OF_STUDENT: "AARAV SINGH",
@@ -14857,6 +15571,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 715,
     ADMISSION: "CPS-IX- 2874-2023 ",
     ROLL: 2,
     NAME_OF_STUDENT: "ABHISH KUMAR",
@@ -14878,6 +15593,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 716,
     ADMISSION: "CPS-VIII- 2699-2022 ",
     ROLL: 3,
     NAME_OF_STUDENT: "AMIT KUMAR",
@@ -14899,6 +15615,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 717,
     ADMISSION: "CPS-VIII- 2645-2022 ",
     ROLL: 4,
     NAME_OF_STUDENT: "ANISHA KUMARI",
@@ -14920,6 +15637,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 718,
     ADMISSION: "CPS-VI- 1748-2020 ",
     ROLL: 5,
     NAME_OF_STUDENT: "ANKIT KUMAR",
@@ -14941,6 +15659,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 719,
     ADMISSION: "CPS-VIII- 2628-2022 ",
     ROLL: 6,
     NAME_OF_STUDENT: "ANKIT KUMAR SINGH",
@@ -14962,6 +15681,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 720,
     ADMISSION: "CPS-VIII- 2702-2022 ",
     ROLL: 7,
     NAME_OF_STUDENT: "ANU PRIYA",
@@ -14983,6 +15703,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 721,
     ADMISSION: "CPS-VIII- 2630-2022 ",
     ROLL: 8,
     NAME_OF_STUDENT: "ANUSHKA KUMARI",
@@ -15004,6 +15725,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 6,
   },
   {
+    id: 722,
     ADMISSION: "CPS-IX- 2949-2023 ",
     ROLL: 9,
     NAME_OF_STUDENT: "ATULYA SAINI",
@@ -15025,6 +15747,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 723,
     ADMISSION: "CPS-VIII- 2703-2022 ",
     ROLL: 10,
     NAME_OF_STUDENT: "DIVYANK KUMAR",
@@ -15046,6 +15769,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 724,
     ADMISSION: "CPS-VIII- 2732-2022 ",
     ROLL: 11,
     NAME_OF_STUDENT: "GAURAV KUMAR ",
@@ -15067,6 +15791,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 725,
     ADMISSION: "CPS-VIII- 2641-2022 ",
     ROLL: 12,
     NAME_OF_STUDENT: "GAUTAMI PRIYA",
@@ -15088,6 +15813,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 726,
     ADMISSION: "CPS-VIII- 2860-2022 ",
     ROLL: 13,
     NAME_OF_STUDENT: "ISHU SINGH",
@@ -15108,6 +15834,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 727,
     ADMISSION: "CPS-VI- 1841 -2020 ",
     ROLL: 14,
     NAME_OF_STUDENT: "JEEGAR KUMAR",
@@ -15129,6 +15856,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 728,
     ADMISSION: "CPS-VIII- 1760-2022 ",
     ROLL: 15,
     NAME_OF_STUDENT: "KHUSHBU MEHTA",
@@ -15150,6 +15878,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 5,
   },
   {
+    id: 729,
     ADMISSION: "CPS-IX- 2966-2023",
     ROLL: 16,
     NAME_OF_STUDENT: "KHUSHI RAJ",
@@ -15171,6 +15900,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 730,
     ADMISSION: "CPS-VIII- 2681-2022 ",
     ROLL: 17,
     NAME_OF_STUDENT: "KUMAR DIVYANSH SINHA",
@@ -15192,6 +15922,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 731,
     ADMISSION: "CPS-VII- 2387-2021 ",
     ROLL: 18,
     NAME_OF_STUDENT: "KUNAL KUMAR",
@@ -15213,6 +15944,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 732,
     ADMISSION: "CPS-VI- 1780-2020 ",
     ROLL: 19,
     NAME_OF_STUDENT: "LAKSHMI KUMARI",
@@ -15234,6 +15966,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 733,
     ADMISSION: "CPS-IX- 2933-2023 ",
     ROLL: 20,
     NAME_OF_STUDENT: "MANISH KUMAR",
@@ -15255,6 +15988,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 7,
   },
   {
+    id: 734,
     ADMISSION: "CPS-VIII- 2635-2022 ",
     ROLL: 21,
     NAME_OF_STUDENT: "MOHIT RAJ",
@@ -15276,6 +16010,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 735,
     ADMISSION: "CPS-VIII- 2552-2022 ",
     ROLL: 22,
     NAME_OF_STUDENT: "MUKESH KUMAR",
@@ -15297,6 +16032,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 6,
   },
   {
+    id: 736,
     ADMISSION: "CPS-IX- 3047-2023",
     ROLL: 23,
     NAME_OF_STUDENT: "NANDANI KUMARI",
@@ -15318,6 +16054,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 737,
     ADMISSION: "CPS-VII- 2195-2021 ",
     ROLL: 24,
     NAME_OF_STUDENT: "NITISH KUMAR",
@@ -15339,6 +16076,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 8,
   },
   {
+    id: 738,
     ADMISSION: "CPS-IX- 2951-2023 ",
     ROLL: 25,
     NAME_OF_STUDENT: "PRATHAM VERMA ",
@@ -15360,6 +16098,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 739,
     ADMISSION: "CPS-VI- 1858-2020 ",
     ROLL: 26,
     NAME_OF_STUDENT: "RAVI RAJ GUPTA",
@@ -15380,6 +16119,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 1,
   },
   {
+    id: 740,
     ADMISSION: "CPS-VIII- 2627-2022 ",
     ROLL: 27,
     NAME_OF_STUDENT: "RISHU RAJ",
@@ -15401,6 +16141,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 10,
   },
   {
+    id: 741,
     ADMISSION: "CPS-VI- 1845-2020 ",
     ROLL: 28,
     NAME_OF_STUDENT: "ROCKEY KUMAR- I",
@@ -15422,6 +16163,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 742,
     ADMISSION: "CPS-VII- 2227-2021 ",
     ROLL: 29,
     NAME_OF_STUDENT: "ROCKEY KUMAR- II",
@@ -15443,6 +16185,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 743,
     ADMISSION: "CPS-VIII- 2637-2022 ",
     ROLL: 30,
     NAME_OF_STUDENT: "ROHIT KUMAR",
@@ -15464,6 +16207,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 744,
     ADMISSION: "CPS-VII- 2238-2021 ",
     ROLL: 31,
     NAME_OF_STUDENT: "ROUSHAN KUMAR",
@@ -15485,6 +16229,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 745,
     ADMISSION: "CPS-IX- 2996-2023",
     ROLL: 32,
     NAME_OF_STUDENT: "ROUSHANI KUMARI",
@@ -15506,6 +16251,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 746,
     ADMISSION: "CPS-VIII- 2682-2022 ",
     ROLL: 33,
     NAME_OF_STUDENT: "RUCHI SHARMA",
@@ -15527,6 +16273,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 3,
   },
   {
+    id: 747,
     ADMISSION: "CPS-IX- 2978-2023 ",
     ROLL: 34,
     NAME_OF_STUDENT: "SAHIL RAJ",
@@ -15548,6 +16295,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 748,
     ADMISSION: "CPS-VIII- 2631-2022 ",
     ROLL: 35,
     NAME_OF_STUDENT: "SHIPRA",
@@ -15569,6 +16317,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 6,
   },
   {
+    id: 749,
     ADMISSION: "CPS-IX- 2935-2023 ",
     ROLL: 36,
     NAME_OF_STUDENT: "SHIVAM KUMAR",
@@ -15590,6 +16339,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 750,
     ADMISSION: "CPS-VIII- 2698-2022 ",
     ROLL: 37,
     NAME_OF_STUDENT: "SONALIKA RAJ",
@@ -15611,6 +16361,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 751,
     ADMISSION: "CPS-VI -1851-2020 ",
     ROLL: 38,
     NAME_OF_STUDENT: "SUDHANSHU KUMAR",
@@ -15632,6 +16383,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 2,
   },
   {
+    id: 752,
     ADMISSION: "CPS-VI- 1850-2020 ",
     ROLL: 39,
     NAME_OF_STUDENT: "SWETANJALI KISHOR",
@@ -15653,6 +16405,7 @@ export const student_main_data_json = [
     BUS_NUMBER: 4,
   },
   {
+    id: 753,
     ADMISSION: "CPS-VIII- 2484-2022 ",
     ROLL: 40,
     NAME_OF_STUDENT: "UJJWAL KUMAR",

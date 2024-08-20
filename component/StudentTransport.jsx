@@ -1,15 +1,381 @@
+import Link from "next/link";
 import React, { useEffect, useState } from "react";
 
 const StudentTransport = () => {
-  const studentTransport = async () => {
-    const response = await fetch("api/hello");
+  const [busNumber1, setBusNumber1] = useState("");
+  const [busNumber1_M, setBusNumber1_M] = useState("");
+  const [busNumber1_F, setBusNumber1_F] = useState("");
+
+  const [busNumber2, setBusNumber2] = useState("");
+  const [busNumber2_M, setBusNumber2_M] = useState("");
+  const [busNumber2_F, setBusNumber2_F] = useState("");
+
+  const [busNumber3, setBusNumber3] = useState("");
+  const [busNumber3_M, setBusNumber3_M] = useState("");
+  const [busNumber3_F, setBusNumber3_F] = useState("");
+
+  const [busNumber4, setBusNumber4] = useState("");
+  const [busNumber4_M, setBusNumber4_M] = useState("");
+  const [busNumber4_F, setBusNumber4_F] = useState("");
+
+  const [busNumber5, setBusNumber5] = useState("");
+  const [busNumber5_M, setBusNumber5_M] = useState("");
+  const [busNumber5_F, setBusNumber5_F] = useState("");
+
+  const [busNumber6, setBusNumber6] = useState("");
+  const [busNumber6_M, setBusNumber6_M] = useState("");
+  const [busNumber6_F, setBusNumber6_F] = useState("");
+
+  const [busNumber7, setBusNumber7] = useState("");
+  const [busNumber7_M, setBusNumber7_M] = useState("");
+  const [busNumber7_F, setBusNumber7_F] = useState("");
+
+  const [busNumber8, setBusNumber8] = useState("");
+  const [busNumber8_M, setBusNumber8_M] = useState("");
+  const [busNumber8_F, setBusNumber8_F] = useState("");
+
+  const [busNumber9, setBusNumber9] = useState("");
+  const [busNumber9_M, setBusNumber9_M] = useState("");
+  const [busNumber9_F, setBusNumber9_F] = useState("");
+
+  const [busNumber10, setBusNumber10] = useState("");
+  const [busNumber10_M, setBusNumber10_M] = useState("");
+  const [busNumber10_F, setBusNumber10_F] = useState("");
+
+  const apiData = async () => {
+    const response = await fetch("/api/hello");
     const data = await response.json();
     console.log(data);
+
+    const bus1 = data.filter((stu) => stu.BUS_NUMBER === 1);
+    const bus1_M = data.filter(
+      (stu) => stu.BUS_NUMBER === 1 && stu.GENDER === "MALE"
+    );
+    const bus1_F = data.filter(
+      (stu) => stu.BUS_NUMBER === 1 && stu.GENDER === "FEMALE"
+    );
+    setBusNumber1(bus1.length);
+    setBusNumber1_M(bus1_M.length);
+    setBusNumber1_F(bus1_F.length);
+
+    const bus2 = data.filter((stu) => stu.BUS_NUMBER === 2);
+    const bus2_M = data.filter(
+      (stu) => stu.BUS_NUMBER === 2 && stu.GENDER === "MALE"
+    );
+    const bus2_F = data.filter(
+      (stu) => stu.BUS_NUMBER === 2 && stu.GENDER === "FEMALE"
+    );
+    setBusNumber2(bus2.length);
+    setBusNumber2_M(bus2_M.length);
+    setBusNumber2_F(bus2_F.length);
+
+    const bus3 = data.filter((stu) => stu.BUS_NUMBER === 3);
+    const bus3_M = data.filter(
+      (stu) => stu.BUS_NUMBER === 3 && stu.GENDER === "MALE"
+    );
+    const bus3_F = data.filter(
+      (stu) => stu.BUS_NUMBER === 3 && stu.GENDER === "FEMALE"
+    );
+    setBusNumber3(bus3.length);
+    setBusNumber3_M(bus3_M.length);
+    setBusNumber3_F(bus3_F.length);
+
+    const bus4 = data.filter((stu) => stu.BUS_NUMBER === 4);
+    const bus4_M = data.filter(
+      (stu) => stu.BUS_NUMBER === 4 && stu.GENDER === "MALE"
+    );
+    const bus4_F = data.filter(
+      (stu) => stu.BUS_NUMBER === 4 && stu.GENDER === "FEMALE"
+    );
+    setBusNumber4(bus4.length);
+    setBusNumber4_M(bus4_M.length);
+    setBusNumber4_F(bus4_F.length);
+
+    const bus5 = data.filter((stu) => stu.BUS_NUMBER === 5);
+    const bus5_M = data.filter(
+      (stu) => stu.BUS_NUMBER === 5 && stu.GENDER === "MALE"
+    );
+    const bus5_F = data.filter(
+      (stu) => stu.BUS_NUMBER === 5 && stu.GENDER === "FEMALE"
+    );
+    setBusNumber5(bus5.length);
+    setBusNumber5_M(bus5_M.length);
+    setBusNumber5_F(bus5_F.length);
+
+    const bus6 = data.filter((stu) => stu.BUS_NUMBER === 6);
+    const bus6_M = data.filter(
+      (stu) => stu.BUS_NUMBER === 6 && stu.GENDER === "MALE"
+    );
+    const bus6_F = data.filter(
+      (stu) => stu.BUS_NUMBER === 6 && stu.GENDER === "FEMALE"
+    );
+    setBusNumber6(bus6.length);
+    setBusNumber6_M(bus6_M.length);
+    setBusNumber6_F(bus6_F.length);
+
+    const bus7 = data.filter((stu) => stu.BUS_NUMBER === 7);
+    const bus7_M = data.filter(
+      (stu) => stu.BUS_NUMBER === 7 && stu.GENDER === "MALE"
+    );
+    const bus7_F = data.filter(
+      (stu) => stu.BUS_NUMBER === 7 && stu.GENDER === "FEMALE"
+    );
+    setBusNumber7(bus7.length);
+    setBusNumber7_M(bus7_M.length);
+    setBusNumber7_F(bus7_F.length);
+
+    const bus8 = data.filter((stu) => stu.BUS_NUMBER === 8);
+    const bus8_M = data.filter(
+      (stu) => stu.BUS_NUMBER === 8 && stu.GENDER === "MALE"
+    );
+    const bus8_F = data.filter(
+      (stu) => stu.BUS_NUMBER === 8 && stu.GENDER === "FEMALE"
+    );
+    setBusNumber8(bus8.length);
+    setBusNumber8_M(bus8_M.length);
+    setBusNumber8_F(bus8_F.length);
+
+    const bus9 = data.filter((stu) => stu.BUS_NUMBER === 9);
+    const bus9_M = data.filter(
+      (stu) => stu.BUS_NUMBER === 9 && stu.GENDER === "MALE"
+    );
+    const bus9_F = data.filter(
+      (stu) => stu.BUS_NUMBER === 9 && stu.GENDER === "FEMALE"
+    );
+    setBusNumber9(bus9.length);
+    setBusNumber9_M(bus9_M.length);
+    setBusNumber9_F(bus9_F.length);
+
+    const bus10 = data.filter((stu) => stu.BUS_NUMBER === 10);
+    const bus10_M = data.filter(
+      (stu) => stu.BUS_NUMBER === 10 && stu.GENDER === "MALE"
+    );
+    const bus10_F = data.filter(
+      (stu) => stu.BUS_NUMBER === 10 && stu.GENDER === "FEMALE"
+    );
+    setBusNumber10(bus10.length);
+    setBusNumber10_M(bus10_M.length);
+    setBusNumber10_F(bus10_F.length);
   };
   useEffect(() => {
-    studentTransport;
+    apiData();
   }, []);
-  return <div>ram</div>;
+
+  return (
+    <div>
+      <div>
+        <Link href="/student/">
+          <button className="btn_submit">Back to Home</button>
+        </Link>
+        <Link href="addstudent">
+          <button className="btn_submit">Take Admission</button>
+        </Link>
+      </div>
+      <table id="customers">
+        <thead>
+          <tr>
+            <th>BUS No.</th>
+            <th>
+              Number of Student <br /> (1st and 2nd shift)
+            </th>
+            <th>Number of Boys</th>
+            <th>Number of Girls</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>1</td>
+            <td>{busNumber1}</td>
+            <td>{busNumber1_M}</td>
+            <td>{busNumber1_F}</td>
+
+            <Link href="/student/all-student-data-transport/bus1">
+              <button
+                style={{
+                  backgroundColor: "orange",
+                  border: "none",
+                  margin: "10px",
+                }}
+                className="btn_submit"
+              >
+                View Student
+              </button>
+            </Link>
+          </tr>
+          <tr>
+            <td>2</td>
+            <td>{busNumber2}</td>
+            <td>{busNumber2_M}</td>
+            <td>{busNumber2_F}</td>
+            <Link href="/student/all-student-data-transport/bus2">
+              <button
+                style={{
+                  backgroundColor: "orange",
+                  border: "none",
+                  margin: "10px",
+                }}
+                className="btn_submit"
+              >
+                View Student
+              </button>
+            </Link>
+          </tr>
+
+          <tr>
+            <td>3</td>
+            <td>{busNumber3}</td>
+            <td>{busNumber3_M}</td>
+            <td>{busNumber3_F}</td>
+            <Link href="/student/all-student-data-transport/bus3">
+              <button
+                style={{
+                  backgroundColor: "orange",
+                  border: "none",
+                  margin: "10px",
+                }}
+                className="btn_submit"
+              >
+                View Student
+              </button>
+            </Link>
+          </tr>
+
+          <tr>
+            <td>4</td>
+            <td>{busNumber4}</td>
+            <td>{busNumber4_M}</td>
+            <td>{busNumber4_F}</td>
+            <Link href="/student/all-student-data-transport/bus4">
+              <button
+                style={{
+                  backgroundColor: "orange",
+                  border: "none",
+                  margin: "10px",
+                }}
+                className="btn_submit"
+              >
+                View Student
+              </button>
+            </Link>
+          </tr>
+
+          <tr>
+            <td>5</td>
+            <td>{busNumber5}</td>
+            <td>{busNumber5_M}</td>
+            <td>{busNumber5_F}</td>
+            <Link href="/student/all-student-data-transport/bus5">
+              <button
+                style={{
+                  backgroundColor: "orange",
+                  border: "none",
+                  margin: "10px",
+                }}
+                className="btn_submit"
+              >
+                View Student
+              </button>
+            </Link>
+          </tr>
+
+          <tr>
+            <td>6</td>
+            <td>{busNumber6}</td>
+            <td>{busNumber6_M}</td>
+            <td>{busNumber6_F}</td>
+            <Link href="/student/all-student-data-transport/bus6">
+              <button
+                style={{
+                  backgroundColor: "orange",
+                  border: "none",
+                  margin: "10px",
+                }}
+                className="btn_submit"
+              >
+                View Student
+              </button>
+            </Link>
+          </tr>
+
+          <tr>
+            <td>7</td>
+            <td>{busNumber7}</td>
+            <td>{busNumber7_M}</td>
+            <td>{busNumber7_F}</td>
+            <Link href="/student/all-student-data-transport/bus7">
+              <button
+                style={{
+                  backgroundColor: "orange",
+                  border: "none",
+                  margin: "10px",
+                }}
+                className="btn_submit"
+              >
+                View Student
+              </button>
+            </Link>
+          </tr>
+
+          <tr>
+            <td>8</td>
+            <td>{busNumber8}</td>
+            <td>{busNumber8_M}</td>
+            <td>{busNumber8_F}</td>
+            <Link href="/student/all-student-data-transport/bus8">
+              <button
+                style={{
+                  backgroundColor: "orange",
+                  border: "none",
+                  margin: "10px",
+                }}
+                className="btn_submit"
+              >
+                View Student
+              </button>
+            </Link>
+          </tr>
+
+          <tr>
+            <td>9</td>
+            <td>{busNumber9}</td>
+            <td>{busNumber9_M}</td>
+            <td>{busNumber9_F}</td>
+            <Link href="/student/all-student-data-transport/bus9">
+              <button
+                style={{
+                  backgroundColor: "orange",
+                  border: "none",
+                  margin: "10px",
+                }}
+                className="btn_submit"
+              >
+                View Student
+              </button>
+            </Link>
+          </tr>
+
+          <tr>
+            <td>10</td>
+            <td>{busNumber10}</td>
+            <td>{busNumber10_M}</td>
+            <td>{busNumber10_F}</td>
+            <Link href="/student/all-student-data-transport/bus10">
+              <button
+                style={{
+                  backgroundColor: "orange",
+                  border: "none",
+                  margin: "10px",
+                }}
+                className="btn_submit"
+              >
+                View Student
+              </button>
+            </Link>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  );
 };
 
 export default StudentTransport;
